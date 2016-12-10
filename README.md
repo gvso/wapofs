@@ -22,4 +22,4 @@ The schools which meet the criteria above are listed in a specific section with 
 
 List
 ----
-The list can be found [https://docs.google.com/spreadsheets/d/1uOiHkO3q8sN64d2jnOQzQdmnejxXFdq4mhPSJdDqFcQ/edit?usp=sharing](here).
+The list can be found [here](https://docs.google.com/spreadsheets/d/1uOiHkO3q8sN64d2jnOQzQdmnejxXFdq4mhPSJdDqFcQ/edit?usp=sharing).
