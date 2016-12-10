@@ -4,10 +4,11 @@ data$institution <- as.character(data$institution)
 # Remove schools with no financial aid average reported.
 data <- data[!is.na(!data$fa_average), ]
 
-# Average financial aid for international students in private schools.
-avg_private = 45370
+# Average price (tuition, room and board, books and suplies, and trasportation) 
+# at private schools.
+avg_private = 49320
 # Average financial aid for international students in public schools.
-avg_public = 35370
+avg_public = 39890
 
 # For our purposes, we are only interested in private and public
 # schools which offer 4-year programs.
@@ -20,13 +21,13 @@ meet_requirement <- function(type = 'private') {
     if(type %in% possibleArg) {
         
         if(type == 'private') {
-            generous_schools <- subset(data, type == "private 4yr" & fa_average >= .8 * avg_private)
+            generous_schools <- subset(data, type == "private 4yr" & fa_average >= .75 * avg_private)
             generous_schools <- generous_schools[order(generous_schools$institution),]
             write.csv(generous_schools, file = 'private_generous_schools.csv', row.names = FALSE)
             return(generous_schools)
         }
         else if(type == 'public') {
-            generous_schools <- subset(data, type == "public 4yr" & fa_average >= .8 * avg_public)
+            generous_schools <- subset(data, type == "public 4yr" & fa_average >= .75 * avg_public)
             generous_schools <- generous_schools[order(generous_schools$institution),]
             write.csv(generous_schools, file = 'public_generous_schools.csv', row.names = FALSE)
             return(generous_schools)
