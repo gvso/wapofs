@@ -1,0 +1,974 @@
+institution,state,type,fa_policy,applicants_2013-14,applicants_2014-15,fa_2013-14,fa_2014-15,admitted_2013-14,admitted_2014-15,fa_average,percentage
+Harvard College,MA,private 4yr,NB,717,755,26298301,27986494,524,524,53409,69
+Yale University,CT,private 4yr,NB,570,569,19764009,17987511,349,322,55862,57
+Princeton University,NJ,private 4yr,NB,569,579,16355904,17786464,408,400,44466,69
+Dartmouth College,NH,private 4yr,NB,349,343,14740271,14599112,288,286,51046,83
+Massachusetts Institute of Technology,MA,private 4yr,NB,433,433,16505536,14208960,368,320,44403,74
+University of Pennsylvania,PA,private 4yr,NB,1077,1103,13318310,14030020,314,314,44682,28
+Mount Holyoke College,MA,private 4yr,NB & NNB,529,534,14535808,13540205,448,413,32785,77
+University of Rochester,NY,private 4yr,NNB,910,1039,10091110,13359078,488,573,23314,55
+Illinois Institute of Technology,IL,private 4yr,NB,700,909,10703818,12656070,592,661,19147,73
+New York University,NY,private 4yr,NB & NNB,3021,3711,797669,11035927,102,374,29508,10
+Cornell University,NY,private 4yr,NB,1344,1379,10099535,10780384,196,206,52332,15
+Florida Institute of Technology,FL,private 4yr,NNB,966,1102,7949296,10490897,522,665,15776,60
+Brown University,RI,private 4yr,NB,721,725,9843867,9843867,211,211,46653,29
+Columbia University,NY,private 4yr,NB,801,822,8298084,9499065,165,176,53972,21
+Worcester Polytechnic Institute,MA,private 4yr,NB & NNB,507,539,8649702,9410169,391,431,21833,80
+Duke University,NC,private 4yr,NB & NNB,580,616,N/A,9173384,N/A,173,53334,28
+Macalester College,MN,private 4yr,NB & NNB,250,272,8656508,9111071,N/A,215,42377,79
+Trinity College,CT,private 4yr,NB & NNB,195,214,8324407,9094734,159,166,54788,78
+Amherst College,MA,private 4yr,NB,171,172,8543755,8573670,155,154,55673,90
+Lindenwood University,MO,private 4yr,NB & NNB,867,934,7295206,8474726,795,901,9406,96
+Andrews University,MI,private 4yr,NB & NNB,314,319,N/A,8455876,N/A,317,26675,99
+Parsons The New School for Design,NY,private 4yr,NB & NNB,1778,1744,8184297,N/A,1123,N/A,7288,63
+Northeastern University,MA,private 4yr,NNB,2881,3094,6493365,8133102,405,434,18740,14
+Smith College,MA,private 4yr,NB & NNB,343,360,7324960,7583628,160,156,48613,43
+St. Olaf College,MN,private 4yr,NB & NNB,177,206,6125930,7564983,173,195,38795,95
+University of Denver,CO,private 4yr,NNB,489,543,7006477,7382830,381,384,19226,71
+Stanford University,CA,private 4yr,NB & NNB,565,575,N/A,7316190,N/A,135,54194,23
+Earlham College,IN,private 4yr,NB & NNB,182,168,7041219,7285362,N/A,181,40251,N/A
+St. John's University,NY,private 4yr,NNB,556,577,6626637,7233687,310,338,21401,59
+Texas Christian University,TX,private 4yr,NB & NNB,391,403,5771602,7181072,213,243,29552,60
+Franklin & Marshall College,PA,private 4yr,NB,293,297,6806085,7052204,165,166,42483,56
+Middlebury College,VT,private 4yr,NB,252,250,6343925,7023738,130,139,50530,56
+Bryn Mawr College,PA,private 4yr,NB,300,314,N/A,6861267,N/A,157,43702,50
+St. Lawrence University,NY,private 4yr,NB & NNB,186,192,6848700,6734631,185,192,35076,100
+Grinnell College,IA,private 4yr,NB & NNB,210,228,5930739,6046218,161,158,38267,69
+University of Chicago,IL,private 4yr,NB & NNB,532,573,4382305,5945857,113,123,48340,21
+New England Conservatory of Music,MA,private 4yr,NB & NNB,125,131,2354530,5919405,N/A,387,15296,N/A
+Calvin College,MI,private 4yr,NB & NNB,384,393,5210496,5859412,384,372,15751,95
+University of Richmond,VA,private 4yr,NB & NNB,271,260,6009570,5768210,132,131,44030,50
+Colgate University,NY,private 4yr,NB,242,250,5600359,5681713,114,141,40296,56
+University of Southern California,CA,private 4yr,NNB,2186,2390,4976897,5606958,279,316,17744,13
+Pace University,NY,private 4yr,NNB,508,650,4699634,5558616,338,400,13897,62
+Missouri State University,MO,public 4yr,NB & NNB,648,759,N/A,5499473,N/A,564,9751,74
+University of Dayton,OH,private 4yr,NNB,697,928,5545920,5486138,424,518,10591,56
+Skidmore College,NY,private 4yr,NB & NNB,179,219,5260000,5430000,98,96,56563,44
+Tufts University,MA,private 4yr,NB,420,417,4538556,5354532,99,108,49579,26
+Bennington College,VT,private 4yr,NB & NNB,46,81,1994986,5351849,44,N/A,45341,96
+Colby College,ME,private 4yr,NB & NNB,155,196,5058080,5334755,101,103,51794,53
+Vanderbilt University,TN,private 4yr,NB & NNB,393,424,3938460,5333040,82,114,46781,27
+Boston University,MA,private 4yr,NNB,2611,3059,4830840,5314196,126,144,36904,5
+Savannah College of Art and Design,GA,private 4yr,NNB,1114,1312,13529001,5301098,N/A,1312,4040,100
+George Washington University,DC,private 4yr,NB & NNB,890,986,5070681,5284331,231,232,22777,24
+Texas A&M University,TX,public 4yr,NB & NNB,571,614,4912188,5145460,250,312,16492,51
+Soka University of America,CA,private 4yr,NB & NNB,159,155,5103611,5541274,159,155,35750,100
+Clark University,MA,private 4yr,NNB,280,308,4639983,5065600,177,200,25328,65
+Bard College,NY,private 4yr,NB,216,219,6083610,4931652,141,112,44032,51
+Liberty University,VA,private 4yr,NB & NNB,734,734,N/A,4846559,N/A,580,8356,79
+Bates College,ME,private 4yr,NB,116,122,N/A,4795700,N/A,91,52700,75
+Williams College,MA,private 4yr,NB,137,144,4783086,4795388,87,87,55119,60
+University of Tulsa,OK,private 4yr,NNB,870,918,4020705,4716001,351,482,9784,53
+Washington University in St. Louis,MO,private 4yr,NB & NNB,531,549,4586035,4694400,147,148,31719,27
+Cooper Union for the Advancement of Science and Art,NY,private 4yr,NNB,86,117,3739350,4633200,97,117,39600,100
+Lafayette College,PA,private 4yr,NB & NNB,147,196,3793652,4570582,94,106,43119,54
+Wellesley College,MA,private 4yr,NB,257,248,4819419,4533351,99,89,50937,36
+Howard University,DC,private 4yr,NB & NNB,242,292,1353185,4485488,127,203,22096,70
+University of Miami,FL,private 4yr,NNB,1510,1578,3928406,4460059,138,155,28775,10
+Oberlin College,OH,private 4yr,NB & NNB,197,210,4531860,4449145,153,142,31132,68
+Suffolk University,MA,private 4yr,NNB,1060,1155,1527595,4405275,193,1155,3814,100
+Southern Methodist University,TX,private 4yr,NNB,420,451,3993226,4373579,155,171,25576,38
+Denison University,OH,private 4yr,NB & NNB,154,165,3904610,4358805,N/A,165,26417,100
+Berea College,KY,private 4yr,NB,120,120,3492787,4316197,116,136,31737,N/A
+Colorado College,CO,private 4yr,NB & NNB,124,130,3614149,4293974,86,90,47711,69
+University of Mississippi,MS,public 4yr,NNB,187,209,1589917,4289523,133,339,12653,N/A
+Sarah Lawrence College,NY,private 4yr,NB & NNB,151,183,4036134,4286261,113,119,36019,65
+Eastern Michigan University,MI,public 4yr,NNB,387,363,4078200,4206571,198,216,19475,60
+Luther College,IA,private 4yr,NB,141,146,3378108,4187442,141,146,28681,100
+Wesleyan University,CT,private 4yr,NB & NNB,239,248,4381949,4179668,80,77,54281,31
+College of Wooster,OH,private 4yr,NNB,150,166,4232345,4090423,149,161,25406,97
+Manhattanville College,NY,private 4yr,NB & NNB,158,152,N/A,4065158,N/A,152,26744,100
+University of Toledo,OH,public 4yr,NNB,685,837,4429838,3946293,413,351,11243,42
+Knox College,IL,private 4yr,NB & NNB,162,174,3237597,3940597,155,171,22647,98
+Quinnipiac University,CT,private 4yr,NB & NNB,127,145,3315862,3935133,95,115,34219,79
+Lynn University,FL,private 4yr,NNB,413,440,4025184,3918530,228,230,17037,52
+Vassar College,NY,private 4yr,NB,157,171,4228298,3864344,89,79,48916,46
+University of Kansas,KS,public 4yr,NB & NNB,971,886,3375310,3828684,206,221,17324,25
+University of Nevada: Las Vegas,NV,public 4yr,NB & NNB,841,840,99288,3770482,36,250,15082,30
+Michigan State University,MI,public 4yr,NNB,4525,4994,1367041,3752601,192,274,13696,5
+University of Evansville,IN,private 4yr,NNB,210,316,2623824,3752501,N/A,194,19343,61
+Providence College,RI,private 4yr,NB & NNB,73,81,2779672,3724740,61,79,47150,98
+Lake Forest College,IL,private 4yr,NB & NNB,160,148,3722334,N/A,154,N/A,24171,96
+Furman University,SC,private 4yr,NB & NNB,108,134,2588687,3673777,83,118,31134,88
+Dickinson College,PA,private 4yr,NB & NNB,170,178,4335952,3634096,136,125,29073,70
+American University,DC,private 4yr,NNB,470,513,1486168,3607780,92,166,21734,32
+Washington and Lee University,VA,private 4yr,NB & NNB,61,72,2988631,3607193,61,69,52278,96
+Ohio Valley University,WV,private 4yr,NB & NNB,31,30,3249930,3581270,422,385,9302,N/A
+University of Cincinnati,OH,public 4yr,NNB,962,1002,N/A,3546024,N/A,426,8324,43
+Stetson University,FL,private 4yr,NNB,120,140,2795798,3540226,109,124,28550,89
+Emporia State University,KS,public 4yr,NNB,280,297,883764,3519786,84,320,10999,N/A
+Indiana University Bloomington,IN,public 4yr,NB & NNB,3438,3535,3029992,3490676,427,976,3577,28
+Marquette University,WI,private 4yr,NNB,285,290,3360007,3413844,259,279,12236,96
+Pratt Institute,NY,private 4yr,NB & NNB,708,760,1349018,3386031,N/A,394,8594,52
+Union College,NY,private 4yr,NB & NNB,134,148,2706858,3335285,79,88,37900,59
+Trinity University,TX,private 4yr,NB & NNB,148,170,2771737,3286606,141,158,20801,93
+DePaul University,IN,private 4yr,NNB,228,198,4141525,3253106,223,212,16347,N/A
+Saint Louis University,MO,private 4yr,NB & NNB,545,544,3276354,3217685,155,156,20626,29
+Wartburg College,IA,private 4yr,NB & NNB,160,158,2611080,3160568,139,155,20391,98
+Canisius College,NY,private 4yr,NNB,107,122,N/A,3139061,N/A,122,25730,100
+University of Notre Dame,IN,private 4yr,NB,345,385,3118797,3118797,99,99,31503,26
+Illinois Wesleyan University,IL,private 4yr,NNB,98,147,2138107,3118535,94,144,21656,98
+Arizona State University,AZ,public 4yr,NNB,2752,3705,2523696,3117021,406,546,5709,15
+Lawrence University,WI,private 4yr,NB & NNB,141,138,2807856,3083058,136,138,22341,100
+Minnesota State University Moorhead,MN,public 4yr,NNB,409,399,2814384,3076508,408,446,6898,N/A
+Hofstra University,NY,private 4yr,NNB,185,252,2299853,3076349,109,131,23484,52
+Robert Morris University,PA,private 4yr,NNB,348,477,3017168,3065710,124,129,23766,27
+Brandeis University,MA,private 4yr,NB & NNB,534,664,3420100,2990061,100,85,35177,13
+Ohio Wesleyan University,OH,private 4yr,NB & NNB,136,121,3156445,2970289,131,133,22333,N/A
+University of San Francisco,CA,private 4yr,NNB,1145,1279,N/A,2927018,N/A,99,29566,8
+College of St. Scholastica,MN,private 4yr,NB,116,117,2725854,2886600,113,111,26005,95
+Connecticut College,CT,private 4yr,NB,94,100,2825226,2881765,60,61,47242,61
+Juilliard School,NY,private 4yr,NB & NNB,124,131,2648350,2876168,110,110,26147,84
+School of Visual Arts,NY,for-profit 4yr,NNB,978,1154,2677370,2802184,281,287,9764,25
+School of the Art Institute of Chicago,IL,private 4yr,NNB,702,850,2053808,2737640,492,616,4444,72
+University of Texas at Arlington,TX,public 4yr,NB & NNB,993,1454,3235896,2735337,683,587,4660,40
+"Columbia University: School of General
+Studies",NY,private 4yr,NB & NNB,302,273,2380874,2717036,199,204,13319,75
+University of New Orleans,LA,public 4yr,NB & NNB,217,245,1909049,2706102,124,156,17347,64
+New Mexico State University,NM,public 4yr,NNB,536,550,2805408,2704921,204,185,14621,34
+Carleton College,MN,private 4yr,NB,172,189,2434600,2641538,70,73,36185,39
+Lehigh University,PA,private 4yr,NB & NNB,334,376,2626182,2594116,N/A,74,35056,20
+Rollins College,FL,private 4yr,NNB,124,158,1988966,2581767,83,101,25562,64
+Northwestern University,IL,private 4yr,NB,609,681,1971637,2577777,46,61,42259,9
+Davidson College,NC,private 4yr,NB & NNB,95,100,2039306,2563856,52,57,44980,57
+University of Bridgeport,CT,private 4yr,NB & NNB,391,447,2559698,N/A,253,N/A,10117,65
+Swarthmore College,PA,private 4yr,NB,130,150,2443433,2551740,51,53,48146,35
+Reed College,OR,private 4yr,NB,82,98,2231449,2535260,45,50,50705,51
+John Brown University,AR,private 4yr,NB & NNB,118,100,2387170,2508380,115,115,21812,N/A
+University of Indianapolis,IN,private 4yr,NNB,310,345,2289942,2489653,N/A,167,14908,48
+Wheaton College,MA,private 4yr,NB & NNB,150,154,2654014,2486582,121,125,19893,81
+Dordt College,IA,private 4yr,NB & NNB,113,115,2484000,N/A,138,N/A,18000,N/A
+University of Texas at Dallas,TX,public 4yr,NNB,559,502,1808210,2466310,200,258,9559,51
+Gordon College,MA,private 4yr,NB & NNB,82,111,1918390,2428333,82,111,21877,100
+Seattle University,WA,private 4yr,NB & NNB,474,477,1850332,2386599,N/A,158,15105,33
+Bryant University,RI,private 4yr,NNB,233,268,2012840,2373906,106,123,19300,46
+College of the Atlantic,ME,private 4yr,NB & NNB,56,59,2273260,2350975,55,58,40534,98
+Ithaca College,NY,private 4yr,NB & NNB,118,103,2660088,2337428,99,87,26867,84
+Northwest University,WA,private 4yr,NB & NNB,27,29,N/A,2308614,N/A,180,12826,N/A
+Fairfield University,CT,private 4yr,NNB,65,90,2160094,2285683,54,56,40816,62
+Texas Tech University,TX,public 4yr,NB & NNB,983,1148,N/A,2273596,N/A,443,5132,39
+Principia College,IL,private 4yr,NB & NNB,79,90,2251632,N/A,74,N/A,30427,94
+Kenyon College,OH,private 4yr,NB & NNB,74,73,2283684,2226768,52,48,46391,66
+University of Portland,OR,private 4yr,NNB,100,109,1705600,2224631,64,77,28891,71
+University of Alabama,AL,public 4yr,NNB,797,799,N/A,2217072,N/A,122,18173,15
+University of South Florida,FL,public 4yr,NNB,962,1277,N/A,2195555,N/A,238,9225,19
+Kalamazoo College,MI,private 4yr,NB & NNB,99,92,2622457,2195427,99,92,23863,100
+New Jersey Institute of Technology,NJ,public 4yr,NB & NNB,294,319,3386552,2192039,164,87,25196,27
+Brigham Young University,UT,private 4yr,NB & NNB,833,854,N/A,2182017,N/A,428,5098,50
+Adelphi University,NY,private 4yr,NNB,198,193,1763433,2181820,123,145,15047,75
+Bentley University,MA,private 4yr,NNB,606,620,N/A,2152286,N/A,119,18086,19
+Rice University,TX,private 4yr,NB & NNB,449,458,N/A,2139931,N/A,83,25782,18
+University of Texas at Austin,TX,public 4yr,NB & NNB,1828,1820,2089420,2137441,403,360,5937,20
+Tulane University,LA,private 4yr,NB & NNB,252,228,2560962,2136255,132,107,19965,47
+Miami University: Oxford,OH,public 4yr,NNB,992,1158,1608688,2123513,232,287,7399,25
+Hobart and William Smith Colleges,NY,private 4yr,NB & NNB,108,119,2419025,2100843,96,81,25936,68
+University of Vermont,VT,public 4yr,NNB,201,268,1855000,2096734,106,116,18075,43
+University of California: Los Angeles,CA,public 4yr,NB,3370,3730,N/A,2093538,N/A,74,28291,2
+San Jose State University,CA,public 4yr,NB & NNB,1244,1458,794526,2057001,120,240,8571,16
+Villanova University,PA,private 4yr,NB & NNB,118,118,2070030,2046865,N/A,54,37904,46
+Westminster College,MO,private 4yr,NB & NNB,177,153,N/A,2022537,N/A,153,13219,100
+University of Hartford,CT,private 4yr,NNB,268,284,2017698,N/A,115,N/A,17545,43
+Duquesne University,PA,private 4yr,NNB,230,251,1948805,1996130,N/A,101,19763,40
+University of Montana,MT,public 4yr,NB & NNB,225,273,1969813,N/A,373,N/A,5281,N/A
+College of St. Benedict,MN,private 4yr,NB & NNB,115,92,2059790,1953707,95,81,24120,88
+Rochester Institute of Technology,NY,private 4yr,NB & NNB,642,718,1950000,N/A,200,N/A,13000,31
+University of Texas at El Paso,TX,public 4yr,NB & NNB,954,980,1936476,N/A,285,N/A,6795,30
+Park University,MO,private 4yr,NB & NNB,247,108,N/A,1934638,N/A,220,8794,N/A
+Iowa State University,IA,public 4yr,NB & NNB,1843,1992,900936,1933700,207,305,6340,15
+Pomona College,CA,private 4yr,NB,110,146,1734580,1921001,41,42,45738,29
+Juniata College,PA,private 4yr,NB & NNB,114,123,1739725,1920033,104,111,17298,90
+Drake University,IA,private 4yr,NB & NNB,230,241,1806621,1912413,169,180,10625,75
+Oklahoma Christian University,OK,private 4yr,NNB,208,196,2125827,1853700,197,185,10020,94
+Webber International University,FL,private 4yr,NB & NNB,53,161,N/A,1843167,N/A,144,12800,89
+Ringling College of Art and Design,FL,private 4yr,NB & NNB,159,191,988464,1841008,N/A,64,28766,34
+Beloit College,WI,private 4yr,NB & NNB,105,107,N/A,1831238,N/A,101,18131,94
+Messiah College,PA,private 4yr,NB & NNB,66,84,1399662,1825897,66,84,21737,100
+Queens University of Charlotte,NC,private 4yr,NNB,97,106,N/A,1824921,N/A,90,20277,85
+Gettysburg College,PA,private 4yr,NB,62,92,1571220,1818280,35,66,27549,72
+Loyola University Chicago,IL,private 4yr,NNB,298,353,N/A,1808071,N/A,138,13102,39
+Southern Illinois University Carbondale,IL,public 4yr,NB & NNB,418,459,1792483,1799853,97,97,18555,21
+Chapman University,CA,private 4yr,NNB,226,245,N/A,1798174,N/A,92,19545,38
+Augustana College,SD,private 4yr,NB & NNB,102,110,1723400,1781346,N/A,147,12118,N/A
+Bowdoin College,ME,private 4yr,NB,88,93,1291170,1780266,30,41,43421,44
+Fordham University,NY,private 4yr,NNB,455,547,N/A,1767530,N/A,52,33991,10
+University of Alaska Anchorage,AK,public 4yr,NB & NNB,241,233,N/A,1766336,N/A,99,17842,42
+Loyola Marymount University,CA,private 4yr,NNB,319,417,1488464,1749068,97,120,14576,29
+James Madison University,VA,public 4yr,NB & NNB,354,348,1946879,1738163,101,91,19101,26
+University of Arizona,AZ,public 4yr,NB & NNB,1728,1875,1813266,1735979,162,141,12312,8
+Graceland University,IA,private 4yr,NNB,96,84,N/A,1732900,N/A,100,17329,N/A
+University of Detroit Mercy,MI,private 4yr,NB & NNB,170,149,2780217,1723712,134,131,13158,88
+Gannon University,PA,private 4yr,NNB,184,225,1712128,1716817,88,83,20685,37
+Elmira College,NY,private 4yr,NB & NNB,42,63,1717350,1705750,N/A,N/A,N/A,N/A
+Taylor University,IN,private 4yr,NNB,71,85,1374058,1699604,N/A,84,20233,99
+University of Tampa,FL,private 4yr,NNB,673,702,1565834,1699000,295,446,3809,64
+St. John's College,NM,private 4yr,NB & NNB,52,54,2102751,1674274,48,57,29373,N/A
+University of New Hampshire,NH,public 4yr,NNB,142,230,1711407,1668596,57,58,28769,25
+Valparaiso University,IN,private 4yr,NNB,265,253,786462,1652780,82,126,13117,50
+SUNY College at Plattsburgh,NY,public 4yr,NB & NNB,315,319,1529520,1645284,N/A,349,4714,N/A
+Elizabethtown College,PA,private 4yr,NB & NNB,57,62,1600900,1641500,N/A,N/A,N/A,N/A
+St. John's University,MN,private 4yr,NB & NNB,98,100,1758080,1631375,80,89,21401,89
+Randolph College,VA,private 4yr,NNB,71,67,N/A,1630138,N/A,67,24330,100
+University of Hawaii at Manoa,HI,public 4yr,NB & NNB,336,346,3471247,1627993,162,141,11546,41
+Northwood University: Florida,FL,private 4yr,N/A,174,182,1627779,N/A,135,N/A,12058,78
+Gustavus Adolphus College,MN,private 4yr,NB & NNB,65,66,1528626,1627600,57,65,25040,98
+Mercer University,GA,private 4yr,NNB,103,96,2170501,1619543,82,69,23472,72
+Menlo College,CA,private 4yr,NNB,96,103,1510897,1615442,91,99,16318,96
+Wabash College,IN,private 4yr,NB & NNB,60,65,1689078,1614011,N/A,58,27827,89
+University of the Incarnate Word,TX,private 4yr,NNB,216,261,1930820,1610336,181,149,10808,57
+Limestone College,SC,private 4yr,NB & NNB,99,103,1610147,N/A,134,N/A,12016,N/A
+Babson College,MA,private 4yr,NB & NNB,555,565,N/A,1602965,N/A,65,24661,12
+Southeast Missouri State University,MO,public 4yr,NNB,604,631,1574384,1601945,438,463,3460,73
+Saint Peter's University,NJ,private 4yr,NNB,51,51,1593285,N/A,48,N/A,33193,94
+University of Memphis,TN,public 4yr,NNB,135,148,1648530,1582830,78,86,18405,58
+California Lutheran University,CA,private 4yr,NB & NNB,110,119,1384366,1553285,93,98,15850,82
+St. Edward's University,TX,private 4yr,NNB,336,345,1667908,1538114,90,80,19226,23
+Florida Southern College,FL,private 4yr,NNB,125,108,1810232,1534410,106,91,16862,84
+St. John's College,MD,private 4yr,NB & NNB,48,43,1532000,1532000,45,45,29373,N/A
+Middle Tennessee State University,TN,public 4yr,NB & NNB,301,420,950208,1531632,48,102,15016,24
+Utica College,NY,private 4yr,NB & NNB,70,88,1159663,1529612,59,69,22168,78
+Western Kentucky University,KY,public 4yr,NNB,798,967,1174059,1521165,97,114,13344,12
+Pepperdine University,CA,private 4yr,NNB,308,305,1516137,1517994,69,66,23000,22
+Adrian College,MI,private 4yr,NB & NNB,1,1,1307100,1507305,75,69,21845,N/A
+Merrimack College,MA,private 4yr,NNB,164,175,1364701,1497076,113,116,12906,66
+Iona College,NY,private 4yr,NNB,66,73,1189056,1477146,54,58,25468,79
+Agnes Scott College,GA,private 4yr,NB & NNB,87,72,1532597,1446696,86,72,20093,100
+North Carolina State University,NC,public 4yr,NNB,615,750,1158887,1444272,104,134,10778,18
+American International College,MA,private 4yr,NNB,14,4,1842359,1443455,N/A,41,35206,N/A
+University of Arkansas,AR,public 4yr,NNB,574,598,1409932,N/A,165,N/A,8545,29
+Washington College,MD,private 4yr,NNB,73,106,1201205,1408820,68,79,17833,75
+Wentworth Institute of Technology,MA,private 4yr,NNB,241,268,N/A,1407000,N/A,156,9019,58
+Cornell College,IA,private 4yr,NB & NNB,64,48,1404019,N/A,57,N/A,24632,89
+Hendrix College,AR,private 4yr,NNB,52,54,1670659,1402039,N/A,54,25964,100
+University of Michigan: Dearborn,MI,public 4yr,NNB,87,100,N/A,1388629,N/A,136,10210,N/A
+Wesleyan College,GA,private 4yr,NNB,135,134,1435718,1384268,121,118,11731,88
+Whitman College,WA,private 4yr,NB & NNB,53,57,1262522,1378904,34,34,40556,60
+Hartwick College,NY,private 4yr,NB & NNB,51,52,1340418,1371612,N/A,44,31173,85
+Claflin University,SC,private 4yr,NNB,62,66,1356900,N/A,68,N/A,19954,N/A
+Linfield College,OR,private 4yr,NB & NNB,61,61,1358546,1350100,61,60,22502,98
+Kutztown University of Pennsylvania,PA,public 4yr,NB,73,82,550545,1348389,52,63,21403,77
+Truman State University,MO,public 4yr,NB & NNB,334,351,1139211,1337528,241,273,4899,78
+Tiffin University,OH,private 4yr,NB & NNB,111,189,N/A,1336797,N/A,189,7073,100
+Niagara University,NY,private 4yr,NNB,455,287,1135350,1333230,101,114,11695,40
+Newman University,KS,private 4yr,NB,71,72,1137051,1329826,69,76,17498,N/A
+Seton Hill University,PA,private 4yr,NB & NNB,41,50,810305,1329034,N/A,50,26580,100
+Goshen College,IN,private 4yr,NB & NNB,64,69,1341690,1328251,70,68,19533,99
+Grand Valley State University,MI,public 4yr,NB & NNB,268,251,1432961,1303776,161,138,9448,55
+Eckerd College,FL,private 4yr,NNB,84,79,978791,1294854,56,71,18237,90
+Michigan Technological University,MI,public 4yr,NB & NNB,315,265,1493915,1289891,234,168,7678,63
+Florida Gulf Coast University,FL,public 4yr,NB & NNB,206,213,1197990,1283169,102,120,10693,56
+St. Mary's College of California,CA,private 4yr,NB & NNB,59,54,1281361,N/A,37,N/A,34631,63
+Abilene Christian University,TX,private 4yr,NB & NNB,152,151,1073209,1277514,173,154,8296,N/A
+Cardinal Stritch University,WI,private 4yr,NB & NNB,67,97,N/A,1274116,N/A,68,18737,70
+Lycoming College,PA,private 4yr,NB,53,59,948240,1273912,N/A,57,22349,97
+University of Maryland: Baltimore County,MD,public 4yr,NNB,466,509,1541521,1273789,N/A,70,18196,14
+Bethune-Cookman University,FL,private 4yr,NB & NNB,59,80,1271940,N/A,86,N/A,15970,N/A
+Oglethorpe University,GA,private 4yr,NB & NNB,47,51,1566931,1270980,N/A,51,24921,100
+LIU Post,NY,private 4yr,NNB,453,397,N/A,1270130,N/A,149,8524,38
+La Salle University,PA,private 4yr,NNB,76,77,915978,1268736,42,52,24399,68
+"Indiana University-Purdue University
+Indianapolis",IN,public 4yr,NNB,741,817,1324400,1263950,176,203,6226,25
+St. Francis University,PA,private 4yr,NB & NNB,70,76,1380548,1263281,52,43,29379,57
+University of Colorado Boulder,CO,public 4yr,NNB,960,1294,697391,1250478,62,81,15438,6
+Centre College,KY,private 4yr,NB & NNB,54,78,N/A,1247180,N/A,76,16410,97
+University of Maryland: Eastern Shore,MD,public 4yr,NNB,119,85,1554917,1246055,57,74,16839,87
+Sacred Heart University,CT,private 4yr,NNB,39,51,393641,1243522,10,40,31088,78
+Georgetown University,DC,private 4yr,NB,779,855,1235925,1235925,25,25,49437,3
+Miami Dade College,FL,public 2yr,NB & NNB,3485,3225,1001236,1227895,710,879,1397,27
+Wingate University,NC,private 4yr,NB & NNB,71,81,72500,1223750,4,58,21099,72
+Otis College of Art and Design,CA,private 4yr,NB & NNB,190,237,738550,1216400,72,115,10577,49
+George Fox University,OR,private 4yr,NB & NNB,152,139,1277000,1205000,N/A,126,9564,91
+Saint Thomas University,FL,private 4yr,NB & NNB,193,163,1514098,1203570,158,142,8476,87
+Whittier College,CA,private 4yr,NNB,58,64,1270458,1202989,58,48,25062,75
+SUNY University at Stony Brook,NY,public 4yr,NNB,1596,1836,1207464,1197774,103,82,14607,4
+Norwich University,VT,private 4yr,NB & NNB,31,35,1078965,1187564,N/A,N/A,22407,N/A
+California Baptist University,CA,private 4yr,NNB,111,131,N/A,1173904,N/A,90,13043,69
+Temple University,PA,public 4yr,NB & NNB,955,1350,1173049,N/A,158,N/A,7424,17
+University of the Cumberlands,KY,private 4yr,NNB,95,109,1205145,1172650,95,87,13479,80
+Northern Illinois University,IL,public 4yr,NB & NNB,216,245,1069848,1169457,78,84,13922,34
+University of St. Thomas,TX,private 4yr,NB & NNB,136,158,892742,1166634,82,94,12411,59
+Palm Beach Atlantic University,FL,private 4yr,NNB,88,97,N/A,1157655,N/A,N/A,11813,N/A
+Morehead State University,KY,public 4yr,NNB,71,75,1156976,N/A,71,N/A,16295,100
+Rider University,NJ,private 4yr,NB & NNB,114,115,N/A,1155867,N/A,51,22664,44
+Kent State University,OH,public 4yr,NNB,1277,1342,1257606,1155792,81,89,12986,7
+Saint Leo University,FL,private 4yr,NNB,280,293,1914318,1152701,141,168,6861,57
+Syracuse University,NY,private 4yr,NNB,1379,1602,312000,1143984,25,93,12301,6
+Saint Bonaventure University,NY,private 4yr,NB & NNB,36,30,1094084,1127110,42,41,27490,N/A
+Siena College,NY,private 4yr,NB & NNB,47,55,1108556,1125000,44,45,25000,82
+Houston Baptist University,TX,private 4yr,NB & NNB,78,82,1117220,N/A,65,N/A,17188,83
+Oklahoma State University,OK,public 4yr,NB & NNB,576,655,961996,1116052,188,211,5289,32
+University of Oregon,OR,public 4yr,NB & NNB,2542,2728,1359089,1115582,129,129,8648,5
+University of California: Irvine,CA,public 4yr,NNB,2100,2875,N/A,1100000,323,432,23735,15
+Webster University,MO,private 4yr,NB & NNB,53,104,N/A,1098912,N/A,89,12347,86
+Rose-Hulman Institute of Technology,IN,private 4yr,NNB,200,237,986916,1084884,186,218,4977,92
+Augustana College,IL,private 4yr,NB & NNB,41,56,724528,1082817,30,44,12118,79
+California Institute of Technology,CA,private 4yr,NB,87,86,1082524,1080669,21,21,51460,24
+Monmouth College,IL,private 4yr,NNB,25,44,488988,1079500,18,40,26987,91
+Cleveland Institute of Music,OH,private 4yr,NB & NNB,44,42,925151,1069767,N/A,47,22761,N/A
+Mount St. Mary's University,CA,private 4yr,NNB,18,13,980096,1062144,N/A,77,13794,N/A
+College of Idaho,ID,private 4yr,NNB,87,81,1078820,1056282,87,78,13542,96
+Oklahoma City University,OK,private 4yr,NB & NNB,315,232,1052524,N/A,73,N/A,14418,23
+Jacksonville State University,AL,public 4yr,NNB,159,134,1466168,1042067,N/A,101,10317,75
+Hollins University,VA,private 4yr,NB & NNB,28,34,712540,1036415,25,32,32388,94
+San Francisco Conservatory of Music,CA,private 4yr,NB & NNB,44,48,847400,1032600,44,50,20652,N/A
+Biola University,CA,private 4yr,NB & NNB,78,115,952304,1022551,106,115,8892,100
+Ohio State University: Columbus Campus,OH,public 4yr,NNB,3206,3312,1779861,1019700,327,217,4699,7
+Santa Clara University,CA,private 4yr,NNB,161,173,858560,1017876,27,29,35099,17
+Bowling Green State University,OH,public 4yr,NNB,225,241,893092,1017694,92,96,10601,40
+St. Norbert College,WI,private 4yr,NB & NNB,55,45,1212680,1014735,71,52,19514,N/A
+Harding University,AR,private 4yr,NB & NNB,291,288,1017246,1013406,102,93,10896,32
+Wayne State University,MI,public 4yr,NNB,444,420,N/A,1012736,N/A,76,13325,18
+Concordia College: Moorhead,MN,private 4yr,NB & NNB,67,68,1257270,1011250,70,54,18727,79
+Oklahoma Baptist University,OK,private 4yr,NNB,65,54,920429,1011054,61,66,15319,N/A
+University of California: Santa Barbara,CA,public 4yr,NB & NNB,768,1140,972001,1003316,33,39,25726,3
+Roanoke College,VA,private 4yr,NB & NNB,28,39,863628,1002226,N/A,38,26374,97
+William Jewell College,MO,private 4yr,NB & NNB,28,46,513846,999060,22,43,23234,93
+Murray State University,KY,public 4yr,NB & NNB,316,338,668836,996527,111,89,11197,26
+Christian Brothers University,TN,private 4yr,NNB,37,39,N/A,988953,N/A,54,18314,N/A
+Xavier University,OH,private 4yr,NNB,77,94,582693,987225,43,59,16733,63
+Robert Morris University: Chicago,IL,private 4yr,NNB,34,27,802848,985102,48,56,17591,N/A
+St. Mary's University,TX,private 4yr,NB & NNB,117,142,N/A,978277,N/A,33,29645,23
+University of Wisconsin-Superior,WI,public 4yr,NB & NNB,133,134,947131,978136,N/A,145,6746,N/A
+Wagner College,NY,private 4yr,NNB,52,45,1171006,977018,44,38,25711,84
+Sewanee: The University of the South,TN,private 4yr,NB & NNB,41,44,1013330,975618,31,29,33642,66
+Rocky Mountain College,MT,private 4yr,NNB,40,36,1126801,972960,N/A,48,20270,N/A
+University of Missouri: St. Louis,MO,public 4yr,NNB,306,278,802968,972597,73,102,9535,37
+Columbus College of Art and Design,OH,private 4yr,NB & NNB,95,82,995267,970650,91,86,11287,N/A
+Florida Atlantic University,FL,public 4yr,NB,374,388,948922,970237,63,64,15160,16
+Birmingham-Southern College,AL,private 4yr,NB & NNB,N/A,43,547400,967630,34,N/A,16100,N/A
+Academy of Art University,CA,for-profit 4yr,NNB,2263,2494,1151184,963296,86,77,12510,3
+Johns Hopkins University,MD,private 4yr,NB,467,494,1168502,962950,31,25,38518,5
+Point Park University,PA,private 4yr,NNB,101,114,797962,949871,51,59,16100,52
+Alabama State University,AL,public 4yr,NNB,113,109,938106,N/A,57,N/A,16458,50
+Milwaukee School of Engineering,WI,private 4yr,NNB,200,315,711690,934304,70,83,11257,26
+Wittenberg University,OH,private 4yr,NB & NNB,N/A,37,972642,933664,33,33,28293,89
+Bucknell University,PA,private 4yr,NB & NNB,185,187,1003000,932186,25,22,42372,12
+Caldwell University,NJ,private 4yr,NB & NNB,56,59,N/A,927464,N/A,39,23781,66
+McKendree University,IL,private 4yr,NB & NNB,34,42,N/A,926814,N/A,43,21554,N/A
+Union College,KY,private 4yr,NNB,45,56,395715,924225,31,56,37900,100
+Brenau University,GA,private 4yr,NNB,44,40,976729,923755,34,31,29799,78
+Hiram College,OH,private 4yr,NNB,48,35,922865,N/A,N/A,N/A,N/A,N/A
+Bard College at Simon's Rock,MA,private 4yr,NB & NNB,34,49,699944,920920,29,35,26312,71
+Pace University: Pleasantville/Briarcliff,NY,private 4yr,NNB,N/A,44,N/A,916046,N/A,39,23488,89
+Barnard College,NY,private 4yr,NB,176,189,647025,916021,15,19,48212,10
+Loyola University New Orleans,LA,private 4yr,NNB,92,87,1061972,908224,64,53,17136,61
+Coastal Carolina University,SC,public 4yr,NNB,107,93,945480,905205,36,35,25863,38
+Catawba College,NC,private 4yr,NB & NNB,34,34,814896,903922,31,34,26586,100
+Fresno Pacific University,CA,private 4yr,NB & NNB,44,52,902799,N/A,47,N/A,19208,N/A
+Walsh University,OH,private 4yr,NNB,60,65,994878,902600,57,53,17030,82
+Embry-Riddle Aeronautical University,FL,private 4yr,NB & NNB,744,735,897768,899107,203,189,4757,26
+Allegheny College,PA,private 4yr,NNB,46,48,859230,897975,46,48,18708,100
+College of Saint Mary,NE,private 4yr,NB & NNB,4,7,126620,891396,4,29,30738,N/A
+San Diego State University,CA,public 4yr,NB & NNB,1286,1566,944000,888000,60,70,12686,4
+Oregon State University,OR,public 4yr,NB & NNB,1280,1375,421758,872994,84,154,5669,11
+Lee University,TN,private 4yr,NNB,189,201,795074,869046,122,134,6485,67
+University of Louisiana at Lafayette,LA,public 4yr,NNB,314,334,664728,866384,290,96,9025,29
+Clarkson University,NY,private 4yr,NNB,77,74,834161,858440,61,61,14073,82
+Marymount University,VA,private 4yr,NB & NNB,214,239,659146,856217,50,70,12232,29
+Rhodes College,TN,private 4yr,NB & NNB,43,47,767937,855505,43,42,20369,89
+University of Findlay,OH,private 4yr,NNB,212,304,512256,849191,96,169,5025,56
+University of South Carolina: Columbia,SC,public 4yr,NNB,270,300,1073542,848359,85,117,7251,39
+University of Southern Mississippi,MS,public 4yr,NB & NNB,76,82,906106,847812,68,57,14874,70
+Columbia College,MO,private 4yr,NNB,107,153,900941,846972,53,48,17645,31
+Illinois College,IL,private 4yr,NNB,29,26,N/A,835361,N/A,40,20884,N/A
+University of Mobile,AL,private 4yr,NNB,45,53,834011,N/A,N/A,N/A,N/A,N/A
+Keuka College,NY,private 4yr,NB & NNB,61,55,831916,N/A,68,N/A,12234,N/A
+College of Saint Rose,NY,private 4yr,NB & NNB,39,39,629097,831138,32,50,16622,N/A
+East Carolina University,NC,public 4yr,NNB,87,84,753943,820998,36,40,20525,48
+Olivet Nazarene University,IL,private 4yr,NB & NNB,29,N/A,814122,N/A,31,N/A,26262,N/A
+Mannes College The New School for Music,NY,private 4yr,NB & NNB,58,N/A,813777,N/A,42,N/A,19376,N/A
+Wayland Baptist University,TX,private 4yr,NB & NNB,44,48,663790,812668,43,N/A,15437,98
+Monmouth University,NJ,private 4yr,NNB,37,35,781039,812216,34,33,24613,94
+St. Catherine University,MN,private 4yr,NB & NNB,36,31,N/A,799914,N/A,N/A,N/A,N/A
+University of Science and Arts of Oklahoma,OK,public 4yr,NB & NNB,57,68,716408,798336,57,66,12096,97
+Northwestern College,IA,private 4yr,NB & NNB,32,36,617688,797753,36,36,22160,100
+Randolph-Macon College,VA,private 4yr,NNB,27,25,780402,772670,N/A,29,26644,N/A
+Bellarmine University,KY,private 4yr,NB & NNB,32,27,771217,N/A,32,N/A,24101,100
+Dallas Baptist University,TX,private 4yr,NNB,211,217,703191,766125,126,122,6280,56
+California College of the Arts,CA,private 4yr,NNB,326,414,709950,763125,83,81,9421,20
+Seattle Pacific University,WA,private 4yr,NNB,69,76,N/A,750536,N/A,55,13646,72
+Francis Marion University,SC,public 4yr,NNB,44,49,693569,748755,N/A,59,12691,N/A
+Mount Mercy University,IA,private 4yr,NNB,49,42,745200,747870,50,44,16997,N/A
+Bloomfield College,NJ,private 4yr,NB & NNB,65,69,1025121,747815,61,65,11505,94
+Newberry College,SC,private 4yr,NNB,35,41,790868,742678,30,28,26524,68
+University of Tennessee: Knoxville,TN,public 4yr,NB,316,299,359226,741947,63,97,7649,32
+Marshall University,WV,public 4yr,NNB,103,106,521562,741576,40,44,16854,42
+Hope College,MI,private 4yr,NB & NNB,67,67,736318,736318,57,57,12918,85
+Harvey Mudd College,CA,private 4yr,NB & NNB,88,100,569866,732896,16,34,21556,34
+Grand View University,IA,private 4yr,NNB,35,41,455778,730457,35,41,17816,100
+St. Andrews University,NC,private 4yr,NNB,52,67,776152,730056,68,65,11232,97
+Benedictine College,KS,private 4yr,NB & NNB,52,57,595589,722757,37,46,15712,81
+McDaniel College,MD,private 4yr,NNB,12,22,677700,719560,N/A,22,32707,100
+Dowling College,NY,private 4yr,NNB,76,55,549081,716989,41,79,9076,N/A
+Maryville College,TN,private 4yr,NB & NNB,42,33,699372,715040,36,32,22345,97
+University of Central Oklahoma,OK,public 4yr,NNB,1106,1114,708383,708383,229,229,3093,21
+Bloomsburg University of Pennsylvania,PA,public 4yr,NB,106,94,347189,707622,47,90,7862,96
+Southeastern Louisiana University,LA,public 4yr,NNB,187,204,3177140,706951,187,138,5123,68
+Colorado State University,CO,public 4yr,NNB,682,885,117026,706547,24,55,12846,6
+University of St. Thomas,MN,private 4yr,NB & NNB,183,193,730436,703304,28,28,12411,15
+Whitworth University,WA,private 4yr,NB & NNB,38,45,698280,N/A,33,N/A,21160,87
+Montreat College,NC,private 4yr,NB & NNB,32,39,606415,697412,32,34,20512,87
+Lincoln Memorial University,TN,private 4yr,NNB,39,N/A,691360,N/A,N/A,N/A,N/A,N/A
+Cornerstone University,MI,private 4yr,NNB,36,47,216098,688189,12,47,14642,100
+Azusa Pacific University,CA,private 4yr,NNB,121,113,614485,682786,73,86,7939,76
+University of Akron,OH,public 4yr,NNB,268,325,130440,682416,24,N/A,6378,9
+Judson University,IL,private 4yr,NB & NNB,39,30,469867,678895,31,40,16972,N/A
+Haverford College,PA,private 4yr,NB,66,66,645377,676512,13,12,56376,18
+Widener University,PA,private 4yr,NNB,96,139,390434,676480,22,39,17345,28
+Muskingum University,OH,private 4yr,NNB,62,59,672305,N/A,59,N/A,11395,95
+Southwestern University,TX,private 4yr,NNB,22,46,418140,672170,21,33,20369,72
+Southeastern Oklahoma State University,OK,public 4yr,NNB,106,89,809293,671200,101,80,8390,90
+Utah Valley University,UT,public 4yr,NNB,382,554,13649,663383,18,108,6142,19
+University of Nebraska - Kearney,NE,public 4yr,NNB,309,282,661513,N/A,249,N/A,2657,81
+Roberts Wesleyan College,NY,private 4yr,NB & NNB,35,44,605605,659935,28,31,21288,70
+New England College,NH,private 4yr,NB & NNB,63,48,729948,654587,50,42,15585,88
+Millsaps College,MS,private 4yr,NNB,23,27,555926,653874,22,25,26155,93
+Creighton University,NE,private 4yr,NB & NNB,71,103,487322,647505,34,45,14389,44
+Lone Star College System,TX,public 2yr,NB,N/A,2498,162504,642859,N/A,301,2135,12
+Saint Michael's College,VT,private 4yr,NB & NNB,52,57,590721,641721,49,43,14924,75
+SUNY College at Oswego,NY,public 4yr,NNB,116,136,487859,640430,73,98,6535,72
+Tusculum College,TN,private 4yr,NB & NNB,37,42,N/A,630230,N/A,37,17033,88
+Lewis-Clark State College,ID,public 4yr,NNB,85,111,N/A,620813,N/A,68,9130,61
+Post University,CT,for-profit 4yr,NNB,38,21,N/A,618489,N/A,38,16276,N/A
+Huntington University,IN,private 4yr,NB & NNB,42,38,546880,613990,44,38,16158,100
+Gonzaga University,WA,private 4yr,NNB,131,89,1491931,613205,65,63,9733,71
+Friends University,KS,private 4yr,NB & NNB,43,N/A,N/A,608776,N/A,49,12424,N/A
+Occidental College,CA,private 4yr,NB & NNB,78,106,604683,607877,15,15,40525,14
+Southwest Baptist University,MO,private 4yr,NNB,34,N/A,606424,N/A,34,N/A,17836,N/A
+University of Montevallo,AL,public 4yr,NNB,35,36,604511,N/A,N/A,N/A,N/A,N/A
+Ouachita Baptist University,AR,private 4yr,NNB,29,32,624798,602912,N/A,32,18841,100
+Coe College,IA,private 4yr,NB & NNB,25,30,N/A,597020,N/A,27,22112,90
+University of Minnesota: Twin Cities,MN,public 4yr,NB & NNB,2642,2787,N/A,596850,N/A,180,3316,6
+California Institute of the Arts,CA,private 4yr,NB & NNB,124,90,595858,N/A,61,N/A,9768,49
+Assumption College,MA,private 4yr,NNB,23,35,395836,594775,14,25,23791,71
+Georgian Court University,NJ,private 4yr,NB & NNB,15,19,356295,594284,15,19,31278,100
+Morningside College,IA,private 4yr,NNB,20,23,417548,589625,30,33,17867,N/A
+Chestnut Hill College,PA,private 4yr,NNB,22,23,580903,584600,N/A,28,20878,N/A
+"St. Joseph's College, New York",NY,private 4yr,NNB,1,1,441923,573872,35,39,14715,N/A
+Cleveland State University,OH,public 4yr,NB & NNB,547,570,694096,565915,47,37,15295,6
+Philadelphia University,PA,private 4yr,NNB,89,108,390010,565430,47,51,11087,47
+Manchester University,IN,private 4yr,NB & NNB,24,27,528425,562000,N/A,N/A,N/A,N/A
+College of the Ozarks,MO,private 4yr,NB & NNB,33,29,490908,560804,33,38,14758,N/A
+Roger Williams University,RI,private 4yr,NNB,216,225,683694,560218,54,44,12732,20
+Lewis University,IL,private 4yr,NB & NNB,37,37,507173,557137,23,24,23214,65
+LeTourneau University,TX,private 4yr,NB & NNB,97,84,415698,556667,48,56,9940,67
+Mount Vernon Nazarene University,OH,private 4yr,NNB,7,23,118475,553599,7,23,24070,100
+University of Pikeville,KY,private 4yr,NB,33,40,485856,553543,32,39,14193,98
+Malone University,OH,private 4yr,NNB,25,20,602088,551575,24,20,27579,100
+Wright State University,OH,public 4yr,NNB,595,685,N/A,551143,N/A,100,5511,15
+Sierra Nevada College,NV,private 4yr,NB & NNB,33,23,355688,549712,18,N/A,19760,55
+University of Texas-Pan American,TX,public 4yr,NB & NNB,365,350,531075,545704,127,160,3411,46
+California University of Pennsylvania,PA,public 4yr,NNB,45,50,N/A,542022,N/A,44,12319,88
+Drew University,NJ,private 4yr,NNB,47,64,301777,540600,23,36,15017,56
+Simpson College,IA,private 4yr,NB & NNB,19,11,530166,537988,18,19,28315,N/A
+Sam Houston State University,TX,public 4yr,NNB,202,215,569375,535903,40,51,10508,24
+Marietta College,OH,private 4yr,NNB,166,155,847290,534250,122,71,7525,46
+University of New Haven,CT,private 4yr,NNB,357,420,N/A,531622,N/A,33,16109,8
+Goucher College,MD,private 4yr,NB & NNB,29,33,565513,528882,22,20,26444,61
+East Stroudsburg University of Pennsylvania,PA,public 4yr,NNB,33,34,324621,527725,27,83,6358,N/A
+Concord University,WV,public 4yr,NB & NNB,103,122,N/A,526037,N/A,92,5718,75
+SUNY College at Geneseo,NY,public 4yr,NNB,130,137,522462,525000,117,130,4038,95
+Averett University,VA,private 4yr,NB & NNB,62,42,N/A,524510,N/A,N/A,N/A,N/A
+Franklin W. Olin College of Engineering,MA,private 4yr,NNB,23,23,524998,522000,23,23,22696,100
+University of Houston,TX,public 4yr,NB & NNB,1433,1461,406015,520080,191,269,1933,18
+Emory University,GA,private 4yr,NNB,1162,1196,515522,N/A,35,N/A,14729,3
+University of Dallas,TX,private 4yr,NB & NNB,41,36,N/A,514411,N/A,36,14289,100
+Marymount California University,CA,private 4yr,NB & NNB,145,230,429806,512720,34,34,15080,15
+Green Mountain College,VT,private 4yr,NB & NNB,22,18,643778,511929,22,18,28440,100
+Wheaton College,IL,private 4yr,NB & NNB,45,62,285349,508039,18,22,19893,35
+University of Wisconsin-Green Bay,WI,public 4yr,NB & NNB,96,81,496129,507712,N/A,48,10577,59
+Morehouse College,GA,private 4yr,NB,38,N/A,502110,N/A,21,N/A,23910,N/A
+University of North Carolina at Greensboro,NC,public 4yr,NNB,246,268,618715,499796,43,33,15145,12
+Ripon College,WI,private 4yr,NNB,32,26,577122,494384,26,22,22472,85
+University of Alaska Fairbanks,AK,public 4yr,NNB,68,61,1062282,493161,39,35,14090,57
+Culver-Stockton College,MO,private 4yr,NNB,14,50,236810,492719,14,30,16424,60
+Towson University,MD,public 4yr,NNB,377,310,688136,490337,76,62,7909,20
+Nazareth College,NY,private 4yr,N/A,31,38,563807,482585,N/A,40,12064,N/A
+Lipscomb University,TN,private 4yr,NB & NNB,62,60,525120,481980,60,60,8033,100
+Saint Anselm College,NH,private 4yr,NB & NNB,11,12,N/A,481411,N/A,11,43765,92
+Central Washington University,WA,public 4yr,NNB,404,62,128256,481166,24,120,4009,N/A
+University of Great Falls,MT,private 4yr,NB & NNB,21,24,394335,480236,23,26,18471,N/A
+University of Massachusetts Lowell,MA,public 4yr,NNB,201,297,236716,476330,46,95,5014,32
+Midwestern State University,TX,public 4yr,NB & NNB,284,391,318046,474043,154,232,2043,59
+Pacific University,OR,private 4yr,NB & NNB,31,35,378850,474000,23,26,18231,74
+University of Wisconsin-Stevens Point,WI,public 4yr,NNB,165,148,461729,473270,83,70,6761,47
+Houghton College,NY,private 4yr,NB & NNB,63,90,472352,N/A,34,N/A,13893,54
+Treasure Valley Community College,OR,public 2yr,NNB,1,N/A,467749,N/A,N/A,N/A,N/A,N/A
+North Carolina Central University,NC,public 4yr,NNB,33,22,465893,N/A,20,N/A,23295,61
+Texas A&M University-Corpus Christi,TX,public 4yr,NNB,294,263,465416,N/A,197,N/A,3248,67
+Huston-Tillotson University,TX,private 4yr,NB & NNB,30,43,463724,N/A,31,N/A,14959,N/A
+Samford University,AL,private 4yr,NB & NNB,91,90,384645,462330,15,22,21015,24
+Ferris State University,MI,public 4yr,NB & NNB,239,217,600676,462259,73,56,8255,26
+Westmont College,CA,private 4yr,NB & NNB,21,20,459450,N/A,20,N/A,22973,95
+Philander Smith College,AR,private 4yr,NB & NNB,43,34,122562,458053,N/A,34,13472,100
+Albion College,MI,private 4yr,NB & NNB,39,30,551267,457895,33,26,17611,87
+Barton College,NC,private 4yr,NB & NNB,24,30,457493,N/A,23,N/A,19891,96
+Le Moyne College,NY,private 4yr,NNB,15,18,353569,451033,21,21,21478,N/A
+Carson-Newman University,TN,private 4yr,NB & NNB,32,34,207036,450860,27,33,13662,97
+"Indiana University-Purdue University Fort
+Wayne",IN,public 4yr,NB & NNB,162,148,411383,449691,N/A,37,12154,25
+"Louisiana State University and Agricultural
+and Mechanical College",LA,public 4yr,NNB,407,428,1093634,449235,74,37,12141,9
+La Roche College,PA,private 4yr,NNB,174,181,341760,448000,40,33,13576,18
+Dominican University,IL,private 4yr,NB & NNB,57,68,259880,447500,18,27,16574,40
+Idaho State University,ID,public 4yr,NNB,778,1230,N/A,446650,N/A,82,5447,7
+Guilford College,NC,private 4yr,NNB,31,32,460499,444453,24,22,20202,69
+Garrett College,MD,public 2yr,NB & NNB,8,13,442881,N/A,531,N/A,834,N/A
+Hillsdale College,MI,private 4yr,NB & NNB,N/A,N/A,N/A,441636,N/A,20,22082,N/A
+Xavier University of Louisiana,LA,private 4yr,NNB,51,55,N/A,440317,N/A,27,16308,49
+Northwood University: Texas,TX,private 4yr,NNB,29,3,439979,N/A,27,N/A,16296,93
+Manhattan School of Music,NY,private 4yr,NB & NNB,143,N/A,436467,N/A,N/A,N/A,N/A,N/A
+St. Thomas Aquinas College,NY,private 4yr,NB,20,26,358760,432749,N/A,20,21637,77
+Muhlenberg College,PA,private 4yr,NB & NNB,15,28,431632,N/A,11,N/A,39239,73
+Northwest Nazarene University,ID,private 4yr,NNB,24,30,298581,430012,24,26,16539,87
+Corban University,OR,private 4yr,NB & NNB,5,16,333334,425014,N/A,24,17709,N/A
+Austin College,TX,private 4yr,NNB,32,35,424400,N/A,N/A,N/A,N/A,N/A
+University of South Carolina: Aiken,SC,public 4yr,NB & NNB,56,100,469364,424039,39,51,8314,51
+Maryville University of Saint Louis,MO,private 4yr,NB & NNB,76,91,276488,422400,38,45,9387,49
+University of Wisconsin-Eau Claire,WI,public 4yr,NB & NNB,206,212,507160,420936,124,118,3567,56
+Holy Names University,CA,private 4yr,NB & NNB,16,23,380111,420677,16,20,21034,87
+"Eugene Lang College The New School for
+Liberal Arts",NY,private 4yr,NB & NNB,89,N/A,420482,N/A,40,N/A,10512,N/A
+Mount St. Mary's University,MD,private 4yr,NB & NNB,18,17,217174,419298,N/A,16,13794,94
+Radford University,VA,public 4yr,NB & NNB,49,59,414549,N/A,75,N/A,5527,N/A
+Susquehanna University,PA,private 4yr,NB & NNB,29,34,364770,413200,18,23,17965,68
+University of St. Francis,IL,private 4yr,NB & NNB,19,25,362432,411420,18,19,21654,76
+Case Western Reserve University,OH,private 4yr,NB & NNB,375,442,128000,410617,9,31,13246,7
+School of the Museum of Fine Arts,MA,private 4yr,NB & NNB,35,38,387950,410563,N/A,36,11405,95
+Lees-McRae College,NC,private 4yr,NB & NNB,17,21,382600,408150,N/A,23,17746,N/A
+Chaminade University of Honolulu,HI,private 4yr,NB & NNB,24,26,N/A,406669,N/A,34,11961,N/A
+Alderson-Broaddus University,WV,private 4yr,NNB,31,35,406000,N/A,29,N/A,14000,94
+Purdue University,IN,public 4yr,NNB,4935,5240,280540,400578,189,191,2097,4
+Faulkner University,AL,private 4yr,NNB,45,43,N/A,400000,N/A,46,8696,N/A
+Spelman College,GA,private 4yr,NB & NNB,30,32,399930,399927,15,15,26662,47
+Northwest Missouri State University,MO,public 4yr,NB & NNB,116,182,291725,399382,36,47,8498,26
+Southern Arkansas University,AR,public 4yr,NNB,83,83,336510,398759,45,54,7384,65
+Texas State University,TX,public 4yr,NB & NNB,136,149,328582,392302,32,36,10897,24
+Capital University,OH,private 4yr,NNB,31,44,295868,385980,17,24,16083,55
+Albright College,PA,private 4yr,NB & NNB,72,55,311830,385890,25,24,16079,44
+University of La Verne,CA,private 4yr,NB & NNB,123,135,320032,383647,37,36,10657,27
+St. Mary's University of Minnesota,MN,private 4yr,NNB,44,42,375340,381836,28,24,15909,57
+University of Central Missouri,MO,public 4yr,NB & NNB,224,N/A,379576,N/A,192,N/A,1977,N/A
+Dickinson State University,ND,public 4yr,NNB,91,74,361488,377921,102,58,6516,78
+Coker College,SC,private 4yr,NB & NNB,22,N/A,377273,N/A,22,N/A,17149,N/A
+Wheeling Jesuit University,WV,private 4yr,NNB,31,33,N/A,374820,N/A,23,16459,69
+Scripps College,CA,private 4yr,NB & NNB,40,41,392973,372520,13,12,31043,29
+Texas A&M University-Kingsville,TX,public 4yr,NNB,99,104,N/A,372252,N/A,59,6309,57
+Regis University,CO,private 4yr,NB & NNB,41,45,257942,369200,N/A,26,14200,58
+Midland University,NE,private 4yr,NB & NNB,25,N/A,368163,N/A,19,N/A,19377,N/A
+Campbellsville University,KY,private 4yr,NB & NNB,176,179,363090,363083,19,19,19110,11
+Pacific Union College,CA,private 4yr,NB,26,46,395145,358340,26,41,8740,89
+Simmons College,MA,private 4yr,NNB,55,53,209600,351960,24,24,14665,45
+SUNY Polytechnic Institute,NY,public 4yr,NNB,14,25,N/A,351632,N/A,37,9504,N/A
+Curry College,MA,private 4yr,NNB,31,39,N/A,349000,N/A,26,13423,67
+Marist College,NY,private 4yr,NNB,80,95,347555,N/A,30,N/A,11585,38
+Anderson University,SC,private 4yr,NNB,N/A,16,589344,347001,51,47,7383,N/A
+Our Lady of the Lake University of San Antonio,TX,private 4yr,NB,16,14,274232,346172,N/A,21,16484,N/A
+Hamline University,MN,private 4yr,NB & NNB,32,30,345495,N/A,31,N/A,10860,97
+University of Maine at Fort Kent,ME,public 4yr,NB & NNB,91,110,N/A,342498,N/A,39,8782,35
+University of Northern Iowa,IA,public 4yr,NNB,332,358,319978,338142,64,83,4074,23
+Longwood University,VA,public 4yr,NNB,36,38,511027,336830,21,19,17728,50
+University of Scranton,PA,private 4yr,NB & NNB,13,16,406340,336129,11,7,48018,44
+North Dakota State College of Science,ND,public 2yr,NB & NNB,N/A,24,311170,335968,29,32,10499,N/A
+Union College,NE,private 4yr,NB & NNB,69,55,1466542,334731,68,54,37900,98
+Minot State University,ND,public 4yr,NNB,N/A,311,N/A,333872,N/A,112,2981,36
+AIB College of Business,IA,private 4yr,NNB,28,N/A,333472,N/A,32,N/A,10421,N/A
+Claremont McKenna College,CA,private 4yr,NB & NNB,189,215,243291,329115,6,15,21941,7
+Marian University,WI,private 4yr,NNB,30,48,190360,327380,20,30,10913,63
+Spring Arbor University,MI,private 4yr,NB & NNB,N/A,21,414501,327264,32,24,13636,N/A
+Georgia State University,GA,public 4yr,NNB,395,403,N/A,325728,N/A,116,2808,29
+Defiance College,OH,private 4yr,NNB,11,13,325300,N/A,11,N/A,29573,100
+Culinary Institute of America,NY,private 4yr,NNB,N/A,282,184800,321560,75,125,2572,44
+University of North Florida,FL,public 4yr,NNB,184,206,235489,320854,100,140,2292,68
+"Florida Agricultural and Mechanical
+University",FL,public 4yr,NNB,67,57,87484,320256,15,16,20016,28
+Warren Wilson College,NC,private 4yr,NNB,N/A,17,315722,317120,22,17,18654,100
+Baldwin Wallace University,OH,private 4yr,NNB,48,35,158580,316000,15,25,12640,71
+McNally Smith College of Music,MN,private 4yr,NNB,N/A,26,N/A,313488,N/A,21,14928,81
+Mars Hill University,NC,private 4yr,NNB,N/A,N/A,519413,312550,30,24,13023,N/A
+Hood College,MD,private 4yr,NB & NNB,31,28,376488,309822,25,23,13470,82
+Eastern University,PA,private 4yr,NNB,49,55,300804,308928,42,50,6179,91
+Flagler College,FL,private 4yr,NNB,95,103,139900,302740,15,37,8182,36
+Carroll College,MT,private 4yr,NB & NNB,15,20,157260,302709,6,16,18919,80
+Cleveland Institute of Art,OH,private 4yr,NNB,24,39,163286,302586,19,29,10434,74
+Baker University,KS,private 4yr,NB & NNB,4,21,301875,N/A,N/A,N/A,N/A,N/A
+Champlain College,VT,private 4yr,NB & NNB,32,32,210874,301334,8,24,12556,75
+Lenoir-Rhyne University,NC,private 4yr,NNB,15,19,N/A,300629,N/A,12,25052,63
+Trinity Christian College,IL,private 4yr,NB & NNB,31,46,305941,300080,19,21,14290,46
+University of Idaho,ID,public 4yr,NB & NNB,288,360,250000,300000,50,60,5000,17
+Southwestern College,KS,private 4yr,NNB,42,63,302932,299880,31,30,9996,48
+Colorado State University: Pueblo,CO,public 4yr,NB & NNB,61,80,N/A,299209,N/A,59,5071,74
+Lubbock Christian University,TX,private 4yr,NNB,27,29,393960,298602,36,24,12442,83
+University of North Alabama,AL,public 4yr,NNB,254,243,78442,297446,N/A,30,9915,12
+Lincoln University,MO,public 4yr,NNB,46,50,342336,295610,24,20,14781,40
+Emerson College,MA,private 4yr,NNB,173,204,178612,295579,14,17,17387,8
+Hampden-Sydney College,VA,private 4yr,NB & NNB,3,1,401990,295372,13,N/A,30922,N/A
+Transylvania University,KY,private 4yr,NNB,23,36,295336,N/A,19,N/A,15544,83
+California State University: Fresno,CA,public 4yr,NNB,684,864,252042,292404,14,23,12713,3
+Cuyahoga Community College,OH,public 2yr,NNB,238,276,N/A,291070,N/A,65,4478,24
+The King's College,NY,private 4yr,NB & NNB,17,19,235186,290660,12,15,19377,79
+Loras College,IA,private 4yr,NNB,38,27,658616,287631,38,N/A,10653,100
+University of Pittsburgh at Bradford,PA,public 4yr,NNB,48,55,251713,281752,29,36,7826,65
+Lyon College,AR,private 4yr,NNB,17,23,280800,N/A,12,N/A,23400,71
+Arkansas Tech University,AR,public 4yr,NNB,290,312,370908,280657,18,21,13365,7
+Central Michigan University,MI,public 4yr,NNB,270,345,N/A,280384,N/A,41,6839,12
+Ursuline College,OH,private 4yr,NNB,11,7,255078,279769,13,17,16457,N/A
+D'Youville College,NY,private 4yr,NNB,125,102,624891,279258,72,32,8727,31
+Lynchburg College,VA,private 4yr,NNB,24,54,236313,278076,21,25,11123,46
+Nyack College,NY,private 4yr,NB & NNB,85,94,N/A,275475,N/A,89,3095,95
+Bridgewater College,VA,private 4yr,NNB,13,13,284160,272779,12,11,24798,85
+University of the Arts,PA,private 4yr,NNB,92,81,270000,N/A,27,N/A,10000,29
+Saint Mary's College,IN,private 4yr,NB & NNB,24,23,457010,269760,N/A,11,24524,48
+Virginia Commonwealth University,VA,public 4yr,NNB,644,720,176556,269056,23,34,7913,5
+Fort Lewis College,CO,public 4yr,NNB,22,24,313786,266096,23,16,16631,67
+St. Augustine's University,NC,private 4yr,NNB,24,18,N/A,265851,N/A,14,18989,78
+SUNY College of Technology at Canton,NY,public 2yr,NB & NNB,83,47,N/A,265410,N/A,67,3961,N/A
+Notre Dame de Namur University,CA,private 4yr,NNB,47,36,N/A,265103,N/A,15,17674,42
+Franklin Pierce University,NH,private 4yr,NB & NNB,18,N/A,265000,N/A,N/A,N/A,N/A,N/A
+University of North Carolina at Pembroke,NC,public 4yr,NB & NNB,38,44,226502,264318,16,18,14684,41
+Tabor College,KS,private 4yr,NNB,18,12,270150,262909,15,15,17527,N/A
+Kettering University,MI,private 4yr,NNB,65,92,N/A,262315,N/A,34,7715,37
+Columbia College,SC,private 4yr,NNB,3,N/A,262204,N/A,18,N/A,17645,N/A
+"City University of New York: College of
+Staten Island",NY,public 4yr,NB & NNB,338,320,N/A,261950,N/A,28,9355,9
+Washington & Jefferson College,PA,private 4yr,NB,17,22,225920,259330,14,19,13649,86
+The Citadel,SC,public 4yr,NNB,28,28,312343,254896,9,7,36414,25
+"Albany College of Pharmacy and Health
+Sciences",NY,private 4yr,NB & NNB,25,72,360700,252250,43,37,6818,51
+Calumet College of St. Joseph,IN,private 4yr,NB & NNB,N/A,1,109545,251032,15,30,8368,N/A
+Franklin College,IN,private 4yr,NNB,10,20,172410,248880,7,11,22625,55
+California State University: Fullerton,CA,public 4yr,NB,1469,1758,249016,246568,98,98,2516,6
+Bryn Athyn College,PA,private 4yr,NB & NNB,20,16,304879,245808,N/A,N/A,N/A,N/A
+Edgewood College,WI,private 4yr,NNB,69,68,203135,245339,15,19,12913,28
+Covenant College,GA,private 4yr,NB & NNB,18,24,256018,244260,19,17,14368,71
+Berry College,GA,private 4yr,NNB,14,15,245540,243325,14,15,16222,100
+University of Rio Grande,OH,private 4yr,NB & NNB,14,15,116740,240672,20,15,16045,100
+Ashland University,OH,private 4yr,NNB,82,80,432613,239690,39,68,3524,85
+Northern Arizona University,AZ,public 4yr,NNB,815,1123,237864,N/A,51,N/A,4664,6
+Alfred University,NY,private 4yr,NNB,53,N/A,236728,N/A,33,N/A,7174,N/A
+Georgia Regents University,GA,public 4yr,NB,60,54,177556,235818,27,33,7146,61
+Salve Regina University,RI,private 4yr,NNB,30,33,269750,234420,14,13,18032,39
+York County Community College,ME,public 2yr,NB & NNB,8,5,312566,234357,N/A,1227,191,N/A
+Dominican College of Blauvelt,NY,private 4yr,NNB,N/A,18,234000,N/A,14,N/A,16714,N/A
+Endicott College,MA,private 4yr,NNB,41,35,240920,233934,20,17,13761,49
+Edinboro University of Pennsylvania,PA,public 4yr,NB & NNB,98,101,78881,233835,11,21,11135,21
+Millersville University of Pennsylvania,PA,public 4yr,NB,37,23,136170,233483,18,24,9728,N/A
+Asbury University,KY,private 4yr,NB & NNB,21,25,231895,N/A,19,N/A,12205,90
+University of North Carolina at Wilmington,NC,public 4yr,NNB,84,78,425084,230887,N/A,84,2749,N/A
+Pine Manor College,MA,private 4yr,NNB,70,N/A,228186,N/A,18,N/A,12677,N/A
+Northern Kentucky University,KY,public 4yr,NNB,457,396,283264,226263,106,107,2115,27
+University of West Alabama,AL,public 4yr,NNB,94,115,239820,226020,105,76,2974,66
+Northland College,WI,private 4yr,NB & NNB,6,9,79116,223300,6,9,24811,100
+Fairmont State University,WV,public 4yr,NNB,94,86,158542,222684,18,21,10604,24
+Bluffton University,OH,private 4yr,NB,11,4,221740,N/A,10,N/A,22174,91
+Northeastern State University,OK,public 4yr,NNB,107,87,221258,N/A,N/A,N/A,N/A,N/A
+Trevecca Nazarene University,TN,private 4yr,NNB,15,18,212220,218274,15,14,15591,78
+University of Wisconsin-Whitewater,WI,public 4yr,NB & NNB,81,77,236000,215900,56,56,3855,73
+New College of Florida,FL,public 4yr,NNB,5,15,24500,215696,2,11,19609,73
+Alma College,MI,private 4yr,NB & NNB,5,11,206050,214970,11,11,19543,100
+Bluefield College,VA,private 4yr,NNB,14,17,214235,N/A,13,N/A,16480,93
+University of San Diego,CA,private 4yr,NNB,334,381,247590,212500,18,17,12500,4
+Georgia Southern University,GA,public 4yr,NNB,214,229,210848,210856,32,32,6589,14
+Fontbonne University,MO,private 4yr,NNB,111,87,N/A,210692,N/A,31,6797,36
+Lawrence Technological University,MI,private 4yr,NNB,149,160,304212,209882,34,21,9994,13
+Shippensburg University of Pennsylvania,PA,public 4yr,NB & NNB,33,28,264173,209426,N/A,21,9973,75
+Deep Springs College,CA,private 2yr,NB,N/A,4,N/A,208000,N/A,4,52000,100
+Kuyper College,MI,private 4yr,NB & NNB,18,2,203901,N/A,9,N/A,22656,50
+Southeastern University,FL,private 4yr,NNB,24,45,138691,202813,13,36,5634,80
+Texas A&M International University,TX,public 4yr,NB & NNB,124,N/A,202403,N/A,49,N/A,4131,N/A
+University of Wisconsin-Stout,WI,public 4yr,NNB,183,202,283750,200835,50,45,4463,22
+Cameron University,OK,public 4yr,NNB,212,209,78750,200769,250,57,3522,27
+Cairn University,PA,private 4yr,NB & NNB,11,15,62600,200600,6,14,14329,93
+Regis College,MA,private 4yr,NNB,18,16,N/A,200537,N/A,12,16711,75
+Bethel University,MN,private 4yr,NB & NNB,12,12,84020,200430,5,9,22270,75
+Hardin-Simmons University,TX,private 4yr,NB & NNB,33,26,213311,199175,21,20,9959,77
+University of Virginia's College at Wise,VA,public 4yr,NB & NNB,1,N/A,179403,197686,9,10,19769,N/A
+University of Illinois at Chicago,IL,public 4yr,NNB,327,379,357813,197326,83,37,5333,10
+Henderson State University,AR,public 4yr,NNB,30,N/A,194628,N/A,21,N/A,9268,N/A
+LIU Brooklyn,NY,private 4yr,NNB,106,97,N/A,192950,N/A,30,6432,31
+Simpson University,CA,private 4yr,NNB,N/A,17,N/A,192300,N/A,16,12019,94
+Western Washington University,WA,public 4yr,NNB,138,134,118980,190275,15,20,9514,15
+McMurry University,TX,private 4yr,NB & NNB,15,4,230754,187472,23,14,13391,N/A
+Saint Joseph's College,IN,private 4yr,NNB,7,10,166730,186257,6,6,31043,60
+SUNY University at Binghamton,NY,public 4yr,NB & NNB,1453,1396,147110,186171,N/A,40,4654,3
+Bethany College,WV,private 4yr,NNB,5,14,N/A,183495,N/A,13,14115,93
+Nicholls State University,LA,public 4yr,NB & NNB,113,117,148769,182117,18,23,7918,20
+John Carroll University,OH,private 4yr,NB & NNB,40,66,181800,N/A,12,N/A,15150,30
+Shenandoah University,VA,private 4yr,NNB,92,101,N/A,181798,N/A,34,5347,34
+Montana State University,MT,public 4yr,N/A,373,396,237083,181741,48,45,4039,11
+Pitzer College,CA,private 4yr,NB,51,N/A,179771,N/A,3,N/A,59924,N/A
+Lamar University,TX,public 4yr,NB & NNB,153,139,N/A,179040,N/A,30,5968,22
+City University of New York: Baruch College,NY,public 4yr,NB & NNB,1667,1683,N/A,177790,N/A,28,6350,2
+University of South Carolina: Upstate,SC,public 4yr,NNB,8,53,367888,177713,81,41,4334,77
+Montana State University: Billings,MT,public 4yr,NB,109,124,N/A,175040,N/A,72,2431,58
+SUNY University at Buffalo,NY,public 4yr,NB,3165,3189,173075,174800,23,23,7600,1
+University of Maine,ME,public 4yr,NNB,218,206,37016,173868,28,33,5269,16
+University of Illinois at Urbana-Champaign,IL,public 4yr,NNB,4629,4919,N/A,173628,N/A,53,3276,1
+Southern Utah University,UT,public 4yr,NB & NNB,291,292,91641,172112,25,35,4917,12
+Nebraska Wesleyan University,NE,private 4yr,NB & NNB,N/A,14,N/A,170370,N/A,9,18930,64
+Bowie State University,MD,public 4yr,NB & NNB,37,N/A,169980,N/A,N/A,N/A,N/A,N/A
+Aquinas College,MI,private 4yr,NNB,10,16,139500,164841,9,16,10302,100
+Slippery Rock University of Pennsylvania,PA,public 4yr,NB & NNB,49,68,110981,164406,13,50,3288,74
+Thomas Aquinas College,CA,private 4yr,NB,15,15,167970,164160,9,9,18240,60
+Thomas More College,KY,private 4yr,NNB,8,7,N/A,162916,N/A,7,23274,100
+Heritage University,WA,private 4yr,NB & NNB,2,8,161046,N/A,N/A,N/A,N/A,N/A
+Kansas City Art Institute,MO,private 4yr,NNB,N/A,N/A,161000,N/A,7,N/A,23000,N/A
+Armstrong State University,GA,public 4yr,NNB,110,118,161000,N/A,N/A,N/A,N/A,N/A
+University of Texas at Brownsville,TX,public 4yr,NB & NNB,376,339,160685,N/A,27,N/A,5951,7
+Western Nebraska Community College,NE,public 2yr,NNB,58,52,38279,160007,13,31,5161,60
+University of Alabama in Huntsville,AL,public 4yr,NNB,182,181,62369,157935,N/A,18,8774,10
+Marymount Manhattan College,NY,private 4yr,NNB,90,91,156728,157195,25,26,6046,29
+Milwaukee Institute of Art & Design,WI,private 4yr,NNB,10,10,136499,156996,11,12,13083,N/A
+Mansfield University of Pennsylvania,PA,public 4yr,NB & NNB,28,19,79372,156800,N/A,27,5807,N/A
+Stephen F. Austin State University,TX,public 4yr,NB & NNB,83,71,134028,155600,108,129,1206,N/A
+Bethel College,IN,private 4yr,NB & NNB,24,26,234000,155000,11,11,14090,42
+Wisconsin Indianhead Technical College,WI,public 2yr,NNB,N/A,569,N/A,154081,N/A,323,477,57
+Gallaudet University,DC,private 4yr,NB & NNB,75,82,N/A,153626,N/A,16,9602,20
+Williams Baptist College,AR,private 4yr,NNB,13,10,188859,153077,N/A,15,10205,N/A
+Rockford University,IL,private 4yr,NNB,13,6,209113,152066,18,11,13824,N/A
+Fort Hays State University,KS,public 4yr,NNB,3462,3321,N/A,150610,N/A,142,1061,4
+Point Loma Nazarene University,CA,private 4yr,NNB,4,14,149383,N/A,10,N/A,14938,N/A
+"Vaughn College of Aeronautics and
+Technology",NY,private 4yr,NNB,34,N/A,145170,N/A,20,N/A,7259,N/A
+Keystone College,PA,private 4yr,NB & NNB,9,7,144675,144675,9,9,16075,N/A
+St. Vincent College,PA,private 4yr,NNB,18,15,N/A,143710,N/A,10,14371,67
+University of St. Francis,IN,private 4yr,NNB,8,12,N/A,142430,N/A,11,21654,92
+Hope International University,CA,private 4yr,NB & NNB,5,3,174600,142325,5,9,15814,N/A
+Mills College,CA,private 4yr,NB & NNB,14,12,138500,140483,9,9,15609,75
+Western State Colorado University,CO,public 4yr,NNB,14,10,169595,137125,14,10,13713,100
+William Paterson University of New Jersey,NJ,public 4yr,NNB,86,87,N/A,129524,N/A,32,4048,37
+Elon University,NC,private 4yr,NNB,99,106,82500,129500,20,38,3408,36
+Evergreen State College,WA,public 4yr,NNB,18,18,90580,128152,7,9,14239,50
+University of Northern Colorado,CO,public 4yr,NB & NNB,111,111,N/A,123896,N/A,112,1106,N/A
+Daemen College,NY,private 4yr,NNB,18,15,123583,N/A,N/A,N/A,N/A,N/A
+Mary Baldwin College,VA,private 4yr,NNB,5,1,N/A,123157,N/A,11,11196,N/A
+University of Central Florida,FL,public 4yr,NB & NNB,484,521,87000,122824,76,74,1660,14
+Concordia University Wisconsin,WI,private 4yr,NB & NNB,51,56,143388,122656,21,24,5111,43
+Thomas College,ME,private 4yr,NNB,27,28,N/A,121860,N/A,14,8704,50
+Boise State University,ID,public 4yr,NNB,609,661,3381465,121356,263,57,2129,9
+Laramie County Community College,WY,public 2yr,NNB,18,18,259464,121176,53,19,6378,N/A
+Centenary College of Louisiana,LA,private 4yr,NNB,14,11,109856,120600,4,4,30150,36
+Millikin University,IL,private 4yr,NNB,26,19,80003,120082,7,7,17155,37
+University of Michigan: Flint,MI,public 4yr,NB & NNB,408,388,117402,119986,38,31,3871,8
+Ferrum College,VA,private 4yr,NB & NNB,12,14,168601,119962,12,8,14995,57
+Bismarck State College,ND,public 2yr,NNB,N/A,N/A,116875,N/A,17,N/A,6875,N/A
+Benedictine University,IL,private 4yr,NB & NNB,30,56,38000,116052,6,34,3413,61
+Avila University,MO,private 4yr,NNB,61,88,115445,N/A,15,N/A,7696,25
+University of Illinois: Springfield,IL,public 4yr,NNB,86,104,158865,114875,30,26,4418,25
+Doane College,NE,private 4yr,NNB,8,16,113000,113000,8,8,14125,50
+Rochester College,MI,private 4yr,NNB,25,N/A,112772,N/A,20,N/A,5639,N/A
+Bethel College,KS,private 4yr,NB & NNB,9,10,67650,112312,5,8,14090,80
+University of California: Santa Cruz,CA,public 4yr,NB,165,352,112104,N/A,N/A,N/A,N/A,N/A
+Emory & Henry College,VA,private 4yr,NNB,12,12,157500,112060,11,9,12451,75
+Lake Region State College,ND,public 2yr,NB & NNB,35,N/A,111780,N/A,15,N/A,7452,N/A
+University of Houston-Downtown,TX,public 4yr,NB & NNB,692,691,23690,111250,7,40,2781,6
+Husson University,ME,private 4yr,NNB,75,63,5000,111151,1,17,6538,27
+Holy Family University,PA,private 4yr,NB & NNB,10,6,199960,110124,7,3,36708,50
+Kean University,NJ,public 4yr,NNB,142,148,113985,108496,15,15,7233,10
+Minneapolis College of Art and Design,MN,private 4yr,NNB,N/A,22,108020,N/A,11,N/A,9820,N/A
+University of Maine at Augusta,ME,public 4yr,NNB,16,19,105000,107275,8,7,15325,37
+University of Mary,ND,private 4yr,NNB,36,23,N/A,107010,N/A,N/A,N/A,N/A
+Mayville State University,ND,public 4yr,NNB,31,29,156519,106730,27,26,4105,90
+College of Coastal Georgia,GA,public 4yr,NNB,29,33,N/A,106000,N/A,15,7067,45
+Colorado Mesa University,CO,public 4yr,NB & NNB,42,50,52607,105963,8,16,6622,32
+Chowan University,NC,private 4yr,NNB,16,N/A,102212,N/A,4,N/A,25553,N/A
+University of Texas at San Antonio,TX,public 4yr,NB & NNB,1136,982,193757,101383,80,77,1317,8
+Bob Jones University,SC,private 4yr,NB & NNB,144,144,29300,99300,6,24,4138,17
+Florida College,FL,private 4yr,NB & NNB,7,9,37022,98553,2,5,19711,56
+Moravian College,PA,private 4yr,NB & NNB,7,50,N/A,97300,N/A,6,16217,12
+Wisconsin Lutheran College,WI,private 4yr,NNB,27,21,95750,N/A,23,N/A,4163,85
+Regent University,VA,private 4yr,NB & NNB,18,14,114283,94631,14,11,8603,79
+University of Mary Hardin-Baylor,TX,private 4yr,NNB,70,73,302192,94422,N/A,50,1888,68
+Marlboro College,VT,private 4yr,NNB,N/A,3,N/A,92950,N/A,3,30983,100
+Jefferson College,MO,public 2yr,NB & NNB,17,17,61311,92265,6,10,9227,59
+Western Illinois University,IL,public 4yr,NB & NNB,159,212,111286,90333,25,22,4106,10
+University of Puget Sound,WA,private 4yr,NNB,7,9,82700,89800,6,8,11225,89
+Columbia International University,SC,private 4yr,NNB,20,21,89145,N/A,11,N/A,8104,55
+Tennessee Wesleyan College,TN,private 4yr,NB & NNB,10,47,87263,N/A,11,N/A,7933,N/A
+"St. Joseph's College New York: Suffolk
+Campus",NY,private 4yr,NNB,N/A,N/A,107000,87250,9,6,14542,N/A
+Walla Walla University,WA,private 4yr,NB & NNB,29,13,N/A,86027,N/A,17,5060,N/A
+Martin Luther College,MN,private 4yr,NB & NNB,23,16,96765,85102,15,17,5006,N/A
+Central Baptist College,AR,private 4yr,NB & NNB,21,25,84456,N/A,18,N/A,4692,86
+Marywood University,PA,private 4yr,NNB,22,23,N/A,83674,N/A,8,10459,35
+Wells College,NY,private 4yr,NNB,17,8,N/A,83000,N/A,5,16600,63
+Cincinnati Christian University,OH,private 4yr,NNB,7,8,115776,82152,9,6,13692,75
+Southern Virginia University,VA,private 4yr,NB & NNB,12,12,92925,81650,12,11,7423,92
+Wright State University: Lake Campus,OH,public 2yr,NNB,9,17,N/A,81105,N/A,16,5069,94
+Southern Oregon University,OR,public 4yr,NNB,118,105,N/A,79623,N/A,36,2212,34
+William Woods University,MO,private 4yr,NNB,1,3,N/A,79010,N/A,3,26337,100
+Wofford College,SC,private 4yr,NB & NNB,28,37,136335,78575,5,3,26192,8
+Grove City College,PA,private 4yr,NB,19,17,86330,76925,12,12,6410,71
+Ozark Christian College,MO,private 4yr,NNB,11,N/A,75798,N/A,18,N/A,4211,N/A
+Lasell College,MA,private 4yr,NNB,52,66,75746,N/A,11,N/A,6886,21
+Texas Lutheran University,TX,private 4yr,NB & NNB,2,1,N/A,75706,N/A,4,18927,N/A
+Concordia University Texas,TX,private 4yr,NNB,11,N/A,74561,N/A,8,N/A,9320,N/A
+Mount St. Joseph University,OH,private 4yr,NNB,4,5,71781,72942,3,3,24314,60
+Lake Erie College,OH,private 4yr,NNB,37,24,N/A,72747,N/A,3,24249,13
+Alvernia University,PA,private 4yr,NNB,4,5,72459,N/A,3,N/A,24153,75
+Louisiana State University at Alexandria,LA,public 4yr,NNB,N/A,19,N/A,72154,N/A,26,2775,N/A
+Lincoln Christian University,IL,private 4yr,NNB,1,10,40830,71662,4,9,7962,90
+Northern Michigan University,MI,public 4yr,NNB,74,N/A,71350,N/A,49,N/A,1456,N/A
+Emmanuel College,MA,private 4yr,NNB,26,29,40000,71318,4,10,7132,34
+Hampton University,VA,private 4yr,NB & NNB,51,34,55696,71000,2,3,23667,9
+Delaware Valley College,PA,private 4yr,NNB,5,10,35000,71000,4,5,14200,50
+Kentucky Christian University,KY,private 4yr,NNB,4,11,70045,N/A,7,N/A,10006,N/A
+Indiana University South Bend,IN,public 4yr,NNB,114,138,130898,69931,24,25,2797,18
+University of Pittsburgh at Johnstown,PA,public 4yr,NNB,68,N/A,68678,N/A,N/A,N/A,N/A,N/A
+Massachusetts Bay Community College,MA,public 2yr,NB,96,107,67150,N/A,2686,N/A,25,N/A
+University of Valley Forge,PA,private 4yr,NB & NNB,1,3,N/A,66974,N/A,3,22325,100
+"New Mexico Institute of Mining and
+Technology",NM,public 4yr,NNB,44,54,66800,N/A,5,N/A,13360,11
+San Jacinto College,TX,public 2yr,NB,389,350,66800,N/A,93,N/A,718,24
+Evangel University,MO,private 4yr,NNB,13,10,124579,64639,11,12,5387,N/A
+Rosemont College,PA,private 4yr,NB & NNB,8,5,36250,64000,N/A,5,12800,100
+University of Texas of the Permian Basin,TX,public 4yr,NB & NNB,33,44,62900,N/A,N/A,N/A,N/A,N/A
+Belmont Abbey College,NC,private 4yr,NNB,35,21,61659,N/A,17,N/A,3627,49
+University of Maine at Presque Isle,ME,public 4yr,NNB,76,68,61128,N/A,24,N/A,2547,32
+Molloy College,NY,private 4yr,NNB,6,8,60830,N/A,4,N/A,15208,67
+University of Redlands,CA,private 4yr,NNB,24,38,60000,N/A,4,N/A,15000,17
+Concordia University Chicago,IL,private 4yr,NNB,11,N/A,60000,N/A,8,N/A,7500,N/A
+Clarke University,IA,private 4yr,NNB,15,13,N/A,58610,N/A,5,11722,38
+Judson College,AL,private 4yr,NB,3,5,58054,N/A,2,N/A,29027,67
+LaGrange College,GA,private 4yr,NNB,5,5,120080,55612,8,3,18537,60
+SUNY College at Fredonia,NY,public 4yr,NNB,144,149,70000,55000,14,12,4583,8
+Quincy University,IL,private 4yr,NNB,5,6,92500,54800,3,4,13700,67
+University of Southern Maine,ME,public 4yr,NNB,56,59,53530,N/A,10,N/A,5353,18
+University of St. Mary,KS,private 4yr,NB & NNB,5,7,53000,N/A,4,N/A,13250,80
+Cochise College,AZ,public 2yr,NNB,15,15,14727,52726,N/A,7,7532,47
+Ranger College,TX,public 2yr,NB,N/A,N/A,52500,N/A,15,N/A,3500,N/A
+East Texas Baptist University,TX,private 4yr,NNB,11,20,27650,52465,10,11,4770,55
+Shepherd University,WV,public 4yr,NNB,13,15,27008,51960,4,N/A,8660,31
+Elms College,MA,private 4yr,NNB,10,15,22045,51728,5,8,6466,53
+"Oklahoma State University Institute of
+Technology: Okmulgee",OK,public 2yr,NNB,29,15,51200,N/A,16,N/A,3200,55
+Georgetown College,KY,private 4yr,NB & NNB,19,18,N/A,50600,N/A,4,12650,22
+University of the West,CA,private 4yr,NB & NNB,27,31,N/A,48828,N/A,13,3756,42
+William Jessup University,CA,private 4yr,NB & NNB,3,3,14852,45595,3,3,15198,100
+King's College,PA,private 4yr,NNB,3,13,45000,N/A,3,N/A,15000,100
+Shimer College,IL,private 4yr,NNB,N/A,N/A,N/A,45000,N/A,3,15000,N/A
+SUNY College at Brockport,NY,public 4yr,NNB,53,112,25070,44620,4,10,4462,9
+Providence Christian College,CA,private 4yr,NB & NNB,3,8,44500,N/A,3,N/A,14833,100
+Brevard College,NC,private 4yr,NB & NNB,43,45,44214,43975,3,2,21988,4
+Missouri Southern State University,MO,public 4yr,NNB,104,123,136576,43277,22,14,3091,11
+Thomas More College of Liberal Arts,NH,private 4yr,NB & NNB,N/A,N/A,43000,N/A,4,N/A,10750,N/A
+Eureka College,IL,private 4yr,NNB,N/A,5,N/A,42710,N/A,5,8542,100
+Purdue University Calumet,IN,public 4yr,NNB,434,494,5752,41595,4,6,6933,1
+Sterling College,KS,private 4yr,NB & NNB,3,1,52149,41388,3,4,10347,N/A
+Northwest Christian University,OR,private 4yr,NNB,N/A,N/A,42300,40500,2,4,10125,N/A
+Warner Pacific College,OR,private 4yr,NNB,N/A,8,63500,40445,7,7,5778,88
+Lebanon Valley College,PA,private 4yr,NNB,1,3,52533,39471,N/A,3,13157,100
+Rockhurst University,MO,private 4yr,NNB,24,23,835016,39100,37,2,19550,9
+University of Texas at Tyler,TX,public 4yr,NNB,69,107,38697,N/A,18,N/A,2150,26
+Dakota State University,SD,public 4yr,NNB,24,23,19586,37626,9,8,4703,35
+St. John Fisher College,NY,private 4yr,NNB,6,10,5000,37535,2,5,7507,50
+Central College,IA,private 4yr,NNB,5,3,90700,37100,5,3,12367,100
+University of Houston-Clear Lake,TX,public 4yr,NB & NNB,79,93,89734,36909,20,25,1476,27
+LIM College,NY,for-profit 4yr,NB & NNB,41,49,N/A,35737,N/A,9,3971,18
+Eastern Connecticut State University,CT,public 4yr,NNB,55,55,35295,N/A,N/A,N/A,N/A,N/A
+Northern State University,SD,public 4yr,NNB,66,72,N/A,35250,N/A,16,2203,22
+Kentucky Mountain Bible College,KY,private 4yr,NB & NNB,7,6,12600,34644,2,7,4949,N/A
+Naropa University,CO,private 4yr,NB,11,13,41025,34189,3,3,11396,23
+Huntingdon College,AL,private 4yr,NNB,3,7,70750,33925,N/A,3,11308,43
+Life University,GA,private 4yr,NB & NNB,28,18,32400,N/A,9,N/A,3600,32
+Toccoa Falls College,GA,private 4yr,NB & NNB,19,11,32228,N/A,4,N/A,8057,21
+University of Wisconsin-Parkside,WI,public 4yr,NNB,78,75,10752,32227,6,N/A,2479,8
+West Chester University of Pennsylvania,PA,public 4yr,NB & NNB,43,41,12500,31092,15,11,2827,27
+Ramapo College of New Jersey,NJ,public 4yr,NNB,48,60,8198,28712,9,25,1148,42
+Black Hawk College,IL,public 2yr,NB & NNB,22,12,9403,28569,10,16,1786,N/A
+Spring Hill College,AL,private 4yr,NNB,17,27,395388,28524,14,1,28524,4
+University of Maine at Machias,ME,public 4yr,NNB,7,9,34350,28100,6,4,7025,44
+Prescott College,AZ,private 4yr,NNB,6,4,32150,28000,N/A,4,7000,100
+DeSales University,PA,private 4yr,NNB,N/A,N/A,N/A,28000,N/A,3,9333,N/A
+Eastern New Mexico University: Roswell,NM,public 2yr,NNB,56,50,1378,27518,1,10,2752,20
+Plymouth State University,NH,public 4yr,NNB,48,60,40750,27500,N/A,13,2115,22
+Alverno College,WI,private 4yr,NNB,12,9,66682,27315,11,9,3035,100
+Westminster College,PA,private 4yr,NNB,3,3,27000,27000,3,3,13219,100
+Cedar Crest College,PA,private 4yr,NB & NNB,17,31,21500,26660,2,2,13330,6
+Eastern Kentucky University,KY,public 4yr,NNB,N/A,228,N/A,25003,N/A,11,2273,5
+Salisbury University,MD,public 4yr,NNB,84,104,11000,24750,4,8,3094,8
+Davis College,NY,private 4yr,NB,N/A,N/A,24450,N/A,N/A,N/A,N/A,N/A
+Mount Wachusett Community College,MA,public 2yr,NB & NNB,30,17,22280,23988,4,4,5997,24
+"SUNY College of Environmental Science and
+Forestry",NY,public 4yr,NNB,27,35,14500,23250,5,5,4650,14
+St. Mary's College of Maryland,MD,public 4yr,NNB,26,20,88048,23190,21,2,11595,10
+Aurora University,IL,private 4yr,NNB,7,5,N/A,23000,N/A,3,7667,60
+Gwynedd Mercy University,PA,private 4yr,NB & NNB,7,3,50625,21500,3,2,10750,67
+Saint Martin's University,WA,private 4yr,NNB,70,81,21000,N/A,5,N/A,4200,7
+Benjamin Franklin Institute of Technology,MA,private 2yr,NNB,5,4,20970,N/A,6,N/A,3495,N/A
+New York School of Interior Design,NY,private 4yr,NNB,7,54,39000,20500,4,4,5125,7
+Clearwater Christian College,FL,private 4yr,NNB,5,5,N/A,20000,N/A,6,3333,N/A
+Cazenovia College,NY,private 4yr,NB & NNB,N/A,N/A,20000,20000,2,2,10000,N/A
+Mount Mary University,WI,private 4yr,NNB,4,2,34660,19162,5,2,9581,100
+Angelo State University,TX,public 4yr,NB,156,175,N/A,18900,N/A,4,4725,2
+Jewish Theological Seminary of America,NY,private 4yr,NNB,5,4,18810,N/A,1,N/A,18810,20
+University of Pittsburgh at Greensburg,PA,public 4yr,NNB,24,15,18500,N/A,2,N/A,9250,8
+Central Wyoming College,WY,public 2yr,NNB,9,8,15691,18112,7,4,4528,50
+Kentucky State University,KY,public 4yr,NNB,7,5,N/A,16322,N/A,2,8161,40
+Metropolitan College of New York,NY,private 4yr,NNB,27,21,18850,16050,11,10,1605,48
+University of Maine at Farmington,ME,public 4yr,NNB,5,4,15700,15700,4,4,3925,100
+Keene State College,NH,public 4yr,NNB,N/A,2,13800,14786,3,2,7393,100
+"Rutgers, The State University of New Jersey:
+New Brunswick/Piscataway Campus",NJ,public 4yr,NNB,1263,1892,N/A,14239,N/A,5,2848,N/A
+University of Montana: Western,MT,public 4yr,NB & NNB,1,N/A,14138,N/A,1,N/A,14138,N/A
+Hilbert College,NY,private 4yr,NB & NNB,7,5,N/A,14100,N/A,4,3525,80
+VanderCook College of Music,IL,private 4yr,NB & NNB,3,2,30184,14100,4,3,4700,N/A
+Eastern New Mexico University,NM,public 4yr,NNB,118,93,N/A,13315,N/A,10,1332,11
+University of Minnesota: Morris,MN,public 4yr,NNB,173,173,4500,12400,3,6,2067,3
+Blue Mountain College,MS,private 4yr,NNB,8,8,12110,N/A,1,N/A,12110,13
+University of Nebraska - Omaha,NE,public 4yr,NNB,384,382,34398,12032,23,8,1504,2
+Southwest Minnesota State University,MN,public 4yr,NNB,78,82,15935,11925,13,12,994,15
+"University of North Carolina School of the
+Arts",NC,public 4yr,NB & NNB,11,15,28314,11895,5,5,2379,33
+"South Dakota School of Mines and
+Technology",SD,public 4yr,NNB,44,52,N/A,11600,N/A,10,1160,19
+Cedarville University,OH,private 4yr,NB & NNB,44,49,11220,N/A,34,N/A,22183,77
+"Calvary Bible College and Theological
+Seminary",MO,private 4yr,NNB,2,1,N/A,11118,N/A,2,5559,N/A
+College of DuPage,IL,public 2yr,NB & NNB,215,238,N/A,10882,N/A,10,1088,4
+Rocky Mountain College of Art & Design,CO,for-profit 4yr,NNB,3,N/A,10600,N/A,2,N/A,5300,N/A
+American Public University System,WV,for-profit 4yr,NNB,316,321,N/A,10465,N/A,14,748,4
+Indiana University Southeast,IN,public 4yr,NNB,19,21,3500,10450,2,11,950,52
+Harford Community College,MD,public 2yr,NB,34,59,8675,10408,N/A,10,1041,17
+Heidelberg University,OH,private 4yr,NNB,2,3,N/A,10000,N/A,N/A,N/A,N/A
+Multnomah University,OR,private 4yr,NB & NNB,2,N/A,9360,N/A,N/A,N/A,N/A,N/A
+Mid-Atlantic Christian University,NC,private 4yr,NB & NNB,N/A,3,9264,N/A,1,N/A,9264,N/A
+Adventist University of Health Sciences,FL,private 4yr,NB & NNB,10,7,16690,9105,111,6,1518,86
+University of Tennessee: Chattanooga,TN,public 4yr,NNB,68,63,950,8850,2,5,1770,8
+Grambling State University,LA,public 4yr,NNB,207,N/A,8000,N/A,3,N/A,2667,N/A
+Wichita State University,KS,public 4yr,NNB,628,708,9504,7750,11,7,1107,1
+The College of New Jersey,NJ,public 4yr,NNB,15,13,N/A,7500,N/A,3,2500,23
+South Suburban College of Cook County,IL,public 2yr,NB & NNB,N/A,N/A,7200,7200,5,5,1440,N/A
+Oakland Community College,MI,public 2yr,NNB,564,N/A,7001,N/A,12,N/A,583,N/A
+Piedmont International University,NC,private 4yr,NNB,N/A,N/A,6466,N/A,2,N/A,3233,N/A
+MacMurray College,IL,private 4yr,NNB,N/A,N/A,6000,N/A,1,N/A,6000,N/A
+Lackawanna College,PA,private 2yr,NNB,4,3,15000,6000,5,2,3000,67
+American Academy of Dramatic Arts: West,CA,private 2yr,NNB,58,63,N/A,6000,N/A,100,60,N/A
+Indiana University East,IN,public 4yr,N/A,13,20,N/A,5591,N/A,2,2795,10
+Trinity College of Florida,FL,private 4yr,NB & NNB,5,5,N/A,5500,N/A,2,2750,40
+Alice Lloyd College,KY,private 4yr,NNB,3,N/A,4640,N/A,3,N/A,1547,N/A
+University of Minnesota: Crookston,MN,public 4yr,NNB,108,75,N/A,4500,N/A,3,1500,4
+"Embry-Riddle Aeronautical University:
+Prescott Campus",AZ,private 4yr,NB & NNB,154,195,18000,4250,6,2,2125,1
+Northwestern College,IL,for-profit 2yr,NNB,N/A,1,N/A,4020,N/A,1,22160,100
+Florida SouthWestern State College,FL,public 2yr,NNB,N/A,304,N/A,4000,N/A,2,2000,1
+Kent State University: Geauga,OH,public 2yr,NNB,11,14,3980,N/A,1,N/A,3980,9
+Albertus Magnus College,CT,private 4yr,N/A,2,11,N/A,3500,N/A,1,3500,9
+Great Falls College Montana State University,MT,public 2yr,NB & NNB,N/A,N/A,3150,3150,5,5,630,N/A
+Mt. Sierra College,CA,for-profit 4yr,NNB,5,N/A,3000,N/A,1,N/A,3000,N/A
+University of Pittsburgh at Titusville,PA,public 2yr,NNB,1,1,N/A,3000,N/A,1,3000,100
+Mount Saint Mary College,NY,private 4yr,NNB,3,1,N/A,3000,N/A,1,3000,100
+Welch College,TN,private 4yr,NB,2,N/A,N/A,3000,N/A,1,3000,N/A
+York College of Pennsylvania,PA,private 4yr,NNB,13,13,2500,2500,5,5,500,38
+East Georgia State College,GA,public 2yr,NNB,38,36,2125,2125,N/A,N/A,N/A,N/A
+"SUNY College of Agriculture and Technology
+at Morrisville",NY,public 4yr,NNB,28,22,N/A,2000,N/A,3,667,14
+Beacon College,FL,private 4yr,NNB,6,5,N/A,2000,N/A,1,2000,20
+California Institute of Integral Studies,CA,private 4yr,NB,3,1,N/A,2000,N/A,2,1000,N/A
+Vance-Granville Community College,NC,public 2yr,NB & NNB,N/A,28,N/A,1873,N/A,5,375,18
+Lincoln University,CA,private 4yr,NNB,N/A,43,N/A,1500,N/A,2,14781,5
+Indiana University Kokomo,IN,public 4yr,NB,8,10,3500,1144,1,2,572,20
+Baptist College of Florida,FL,private 4yr,NB & NNB,N/A,N/A,1000,N/A,1,N/A,1000,N/A
+Northeastern Illinois University,IL,public 4yr,NB & NNB,316,343,500,1000,1,1,1000,N/A
+Indiana University Northwest,IN,public 4yr,NNB,5,5,604,N/A,1,N/A,604,20
+Kent State University: Stark,OH,public 2yr,NNB,8,9,500,N/A,1,N/A,500,13
+East Central Community College,MS,public 2yr,NNB,8,N/A,200,N/A,1,N/A,200,N/A
