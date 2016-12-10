@@ -1,13 +1,14 @@
 data <- read.csv('international_fa.csv', na.strings = "N/A")
 data$institution <- as.character(data$institution)
 
-# Remove schools with no financial aid average reported.
+# Removes schools with no financial aid average reported.
 data <- data[!is.na(!data$fa_average), ]
 
 # Average price (tuition, room and board, books and suplies, and trasportation) 
 # at private schools.
 avg_private = 49320
-# Average financial aid for international students in public schools.
+# Average price (tuition, room and board, books and suplies, and trasportation) 
+# at public schools.
 avg_public = 39890
 
 # For our purposes, we are only interested in private and public
@@ -36,6 +37,7 @@ meet_requirement <- function(type = 'private') {
 }
 
 # Matches test optional schools with generous schools.
+# @todo: make this function work
 test_optional <- function(schools) {
     test_opt_schools <- read.csv('test_optional.csv', na.strings = '--')
     test_opt_schools$institution <- as.character(test_opt_schools$institution)
@@ -53,7 +55,7 @@ test_optional <- function(schools) {
         match.s1.s2 <- rbind(data.frame(s2.i=test_opt_schools.i, s1.i=schools.i, s2name=test_opt_schools[test_opt_schools.i,]$institution, s1name=schools[schools.i,]$institution, adist=min.name[i]), match.s1.s2)
     }
     
-    # views the results.
+    # Shows the results.
     View(match.s1.s2)
 }
 
