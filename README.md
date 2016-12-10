@@ -19,3 +19,7 @@ Notice that this is not the best approach. Ideally, schools should be filtered a
 There are many universities which might not have a high average financial aid for internationals but offer grants which can cover big part of the (or the total) cost of attendance. Additionally, on the previous process, there might have been schools which can give good amounts of financial aid and were removed from the list. For instance, a &quot;cheap&quot; school which average financial aid did not get to the 75% of the **national** average cost of attendance. After all, it is not the same to study in Utah than to study in California.
 
 The schools which meet the criteria above are listed in a specific section with links to resources where students can learn more about their grants.
+
+List
+----
+The list can be found [https://docs.google.com/spreadsheets/d/1uOiHkO3q8sN64d2jnOQzQdmnejxXFdq4mhPSJdDqFcQ/edit?usp=sharing](here).
