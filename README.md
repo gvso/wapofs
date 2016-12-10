@@ -3,6 +3,7 @@ Wapofs - Making Your Financial Journey Easier
 Gathering and cleaning data
 ----
 The list relies on two main resources:
+
 **U.S. Higher Education Institutions Awarding the Most Financial Aid to International Undergraduate Students**
 
 **Resource:** [https://drive.google.com/file/d/0B6Foe6rLi1WtTTlYQVItdG10MEU/view](https://drive.google.com/file/d/0B6Foe6rLi1WtTTlYQVItdG10MEU/view).
